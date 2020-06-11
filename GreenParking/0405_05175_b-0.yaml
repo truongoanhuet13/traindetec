@@ -1,0 +1,7 @@
+image_file: 0405_05175_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 112 237 106 243 176 160 181
+region_code_gt: vn
+plate_number_gt: 59U148850
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0317_08220_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 181 178 266 175 269 246 185 252
+region_code_gt: vn
+plate_number_gt: 79N209854
+plate_inverted_gt: false

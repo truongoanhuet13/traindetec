@@ -1,0 +1,7 @@
+image_file: 0243_06432_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 181 63 258 57 262 125 185 130
+region_code_gt: vn
+plate_number_gt: 66H60786
+plate_inverted_gt: false

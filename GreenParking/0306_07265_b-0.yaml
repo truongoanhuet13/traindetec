@@ -1,0 +1,7 @@
+image_file: 0306_07265_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 214 85 291 91 287 156 211 149
+region_code_gt: vn
+plate_number_gt: 59E108670
+plate_inverted_gt: false

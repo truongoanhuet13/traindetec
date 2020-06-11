@@ -1,0 +1,7 @@
+image_file: 0054_05705_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 195 107 274 99 280 164 201 174
+region_code_gt: vn
+plate_number_gt: 51L73998
+plate_inverted_gt: false

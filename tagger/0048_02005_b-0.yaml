@@ -1,0 +1,7 @@
+image_file: 0048_02005_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 181 163 262 172 256 242 177 231
+region_code_gt: vn
+plate_number_gt: 86B341492
+plate_inverted_gt: false

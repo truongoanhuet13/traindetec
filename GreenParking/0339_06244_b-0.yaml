@@ -1,0 +1,7 @@
+image_file: 0339_06244_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 259 78 339 92 331 158 250 145
+region_code_gt: vn
+plate_number_gt: 51L32640
+plate_inverted_gt: false

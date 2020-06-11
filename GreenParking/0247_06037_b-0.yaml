@@ -1,0 +1,7 @@
+image_file: 0247_06037_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 252 113 328 117 326 184 249 181
+region_code_gt: vn
+plate_number_gt: 81G113556
+plate_inverted_gt: false

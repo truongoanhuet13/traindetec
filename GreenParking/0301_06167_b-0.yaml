@@ -1,0 +1,7 @@
+image_file: 0301_06167_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 208 177 288 178 287 243 208 243
+region_code_gt: vn
+plate_number_gt: 59S247061
+plate_inverted_gt: false

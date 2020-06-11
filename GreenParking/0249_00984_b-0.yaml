@@ -1,0 +1,7 @@
+image_file: 0249_00984_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 58 249 59 247 111 181 108
+region_code_gt: vn
+plate_number_gt: 59P231316
+plate_inverted_gt: false

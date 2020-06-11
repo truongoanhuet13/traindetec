@@ -1,0 +1,7 @@
+image_file: 0512_04241_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 207 55 284 63 277 128 202 118
+region_code_gt: vn
+plate_number_gt: 72F131144
+plate_inverted_gt: false

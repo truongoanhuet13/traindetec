@@ -1,0 +1,7 @@
+image_file: 0302_04345_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 146 112 209 112 208 164 146 163
+region_code_gt: vn
+plate_number_gt: 67B169660
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0510_07350_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 113 280 119 277 183 201 178
+region_code_gt: vn
+plate_number_gt: 59L153122
+plate_inverted_gt: false

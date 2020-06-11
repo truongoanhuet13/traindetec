@@ -1,0 +1,7 @@
+image_file: 0421_04489_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 238 125 320 140 311 211 229 196
+region_code_gt: vn
+plate_number_gt: 86B622670
+plate_inverted_gt: false

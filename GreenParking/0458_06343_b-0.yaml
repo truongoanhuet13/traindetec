@@ -1,0 +1,7 @@
+image_file: 0458_06343_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 239 103 314 103 312 166 239 165
+region_code_gt: vn
+plate_number_gt: 29B110559
+plate_inverted_gt: false

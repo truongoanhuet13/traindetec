@@ -1,0 +1,7 @@
+image_file: 0502_07225_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 171 187 250 193 247 262 167 258
+region_code_gt: vn
+plate_number_gt: 59S178384
+plate_inverted_gt: false

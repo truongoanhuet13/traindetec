@@ -1,0 +1,7 @@
+image_file: 0510_05493_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 56 261 56 262 121 183 124
+region_code_gt: vn
+plate_number_gt: 63H4 0538
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0519_08310_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 177 133 262 135 260 207 176 205
+region_code_gt: vn
+plate_number_gt: 59P223050
+plate_inverted_gt: false

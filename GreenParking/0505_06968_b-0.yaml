@@ -1,0 +1,7 @@
+image_file: 0505_06968_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 117 95 186 88 193 149 121 154
+region_code_gt: vn
+plate_number_gt: 93F94406
+plate_inverted_gt: false

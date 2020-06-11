@@ -1,0 +1,7 @@
+image_file: 0335_04394_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 102 264 103 261 171 184 172
+region_code_gt: vn
+plate_number_gt: 84L131408
+plate_inverted_gt: false

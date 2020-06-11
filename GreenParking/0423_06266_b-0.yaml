@@ -1,0 +1,7 @@
+image_file: 0423_06266_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 189 140 264 135 266 197 192 202
+region_code_gt: vn
+plate_number_gt: 59H160919
+plate_inverted_gt: false

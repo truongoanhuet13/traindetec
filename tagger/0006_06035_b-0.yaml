@@ -1,0 +1,7 @@
+image_file: 0006_06035_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 206 130 282 135 278 200 202 196
+region_code_gt: vn
+plate_number_gt: 59U139619
+plate_inverted_gt: false

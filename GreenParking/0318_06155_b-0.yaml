@@ -1,0 +1,7 @@
+image_file: 0318_06155_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 149 273 149 274 216 193 218
+region_code_gt: vn
+plate_number_gt: 60B715461
+plate_inverted_gt: false

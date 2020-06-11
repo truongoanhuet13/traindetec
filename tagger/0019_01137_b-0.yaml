@@ -1,0 +1,7 @@
+image_file: 0019_01137_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 239 142 319 136 324 205 241 212
+region_code_gt: vn
+plate_number_gt: 59V184031
+plate_inverted_gt: false

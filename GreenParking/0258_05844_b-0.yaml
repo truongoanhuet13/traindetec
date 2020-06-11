@@ -1,0 +1,7 @@
+image_file: 0258_05844_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 132 258 130 258 195 180 197
+region_code_gt: vn
+plate_number_gt: 59D198276
+plate_inverted_gt: false

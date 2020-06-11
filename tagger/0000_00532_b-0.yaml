@@ -1,0 +1,7 @@
+image_file: 0000_00532_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 146 77 216 76 218 133 145 134
+region_code_gt: vn
+plate_number_gt: 59P166480
+plate_inverted_gt: false

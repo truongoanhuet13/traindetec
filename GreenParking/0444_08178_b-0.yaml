@@ -1,0 +1,7 @@
+image_file: 0444_08178_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 211 124 296 120 299 189 216 194
+region_code_gt: vn
+plate_number_gt: 59S199891
+plate_inverted_gt: false

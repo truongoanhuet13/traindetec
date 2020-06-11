@@ -1,0 +1,7 @@
+image_file: 0301_01589_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 146 122 228 119 229 189 148 194
+region_code_gt: vn
+plate_number_gt: 59B138559
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0316_06813_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 67 241 68 241 128 171 126
+region_code_gt: vn
+plate_number_gt: 72H58794
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0432_08079_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 151 243 146 244 199 176 204
+region_code_gt: vn
+plate_number_gt: 54S19755
+plate_inverted_gt: false

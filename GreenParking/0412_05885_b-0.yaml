@@ -1,0 +1,7 @@
+image_file: 0412_05885_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 285 74 365 85 358 153 279 142
+region_code_gt: vn
+plate_number_gt: 63H54588
+plate_inverted_gt: false

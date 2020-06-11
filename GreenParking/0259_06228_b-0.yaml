@@ -1,0 +1,7 @@
+image_file: 0259_06228_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 210 158 284 155 289 219 212 220
+region_code_gt: vn
+plate_number_gt: 53S39152
+plate_inverted_gt: false

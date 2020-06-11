@@ -1,0 +1,7 @@
+image_file: 0409_08201_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 221 76 300 76 300 146 221 146
+region_code_gt: vn
+plate_number_gt: 63B436920
+plate_inverted_gt: false

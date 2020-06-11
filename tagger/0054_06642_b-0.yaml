@@ -1,0 +1,7 @@
+image_file: 0054_06642_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 239 64 308 74 301 132 232 121
+region_code_gt: vn
+plate_number_gt: 84G122593
+plate_inverted_gt: false

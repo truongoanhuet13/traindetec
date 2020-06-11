@@ -1,0 +1,7 @@
+image_file: 0233_05690_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 113 255 108 259 162 198 168
+region_code_gt: vn
+plate_number_gt: 63B140991
+plate_inverted_gt: false

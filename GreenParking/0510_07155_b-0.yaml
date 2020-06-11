@@ -1,0 +1,7 @@
+image_file: 0510_07155_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 298 204 382 216 375 284 291 276
+region_code_gt: vn
+plate_number_gt: 59Z205456
+plate_inverted_gt: false

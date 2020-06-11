@@ -1,0 +1,7 @@
+image_file: 0519_00462_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 233 92 302 94 298 152 232 148
+region_code_gt: vn
+plate_number_gt: 53R88556
+plate_inverted_gt: false

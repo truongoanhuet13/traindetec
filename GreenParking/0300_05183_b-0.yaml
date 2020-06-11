@@ -1,0 +1,7 @@
+image_file: 0300_05183_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 0 242 0 241 68 161 68
+region_code_gt: vn
+plate_number_gt: 59D113629
+plate_inverted_gt: false

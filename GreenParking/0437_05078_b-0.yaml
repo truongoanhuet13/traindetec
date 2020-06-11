@@ -1,0 +1,7 @@
+image_file: 0437_05078_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 172 17 248 10 252 76 177 83
+region_code_gt: vn
+plate_number_gt: 63V50914
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0443_05508_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 188 243 186 245 244 173 249
+region_code_gt: vn
+plate_number_gt: 85B102836
+plate_inverted_gt: false

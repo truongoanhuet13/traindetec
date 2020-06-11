@@ -1,0 +1,7 @@
+image_file: 0451_07396_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 69 268 68 265 134 186 135
+region_code_gt: vn
+plate_number_gt: 68X122306
+plate_inverted_gt: false

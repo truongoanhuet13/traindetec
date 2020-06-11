@@ -1,0 +1,7 @@
+image_file: 0212_02007_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 108 119 188 114 193 180 112 185
+region_code_gt: vn
+plate_number_gt: 51K2 8501
+plate_inverted_gt: false

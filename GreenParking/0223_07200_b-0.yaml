@@ -1,0 +1,7 @@
+image_file: 0223_07200_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 250 76 319 87 313 145 244 133
+region_code_gt: vn
+plate_number_gt: 51H58092
+plate_inverted_gt: false

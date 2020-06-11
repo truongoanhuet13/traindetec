@@ -1,0 +1,7 @@
+image_file: 0516_00491_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 164 101 239 101 240 162 166 164
+region_code_gt: vn
+plate_number_gt: 51F58028
+plate_inverted_gt: false

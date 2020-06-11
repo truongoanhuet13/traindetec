@@ -1,0 +1,7 @@
+image_file: 0343_04212_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 104 263 104 263 174 180 174
+region_code_gt: vn
+plate_number_gt: 59S201572
+plate_inverted_gt: false

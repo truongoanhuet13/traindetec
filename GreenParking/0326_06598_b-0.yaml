@@ -1,0 +1,7 @@
+image_file: 0326_06598_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 182 30 263 31 263 101 182 99
+region_code_gt: vn
+plate_number_gt: 59D159989
+plate_inverted_gt: false

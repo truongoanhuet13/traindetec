@@ -1,0 +1,7 @@
+image_file: 0043_01133_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 131 256 132 253 181 193 179
+region_code_gt: vn
+plate_number_gt: 54S24522
+plate_inverted_gt: false

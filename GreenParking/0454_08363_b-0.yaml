@@ -1,0 +1,7 @@
+image_file: 0454_08363_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 92 259 92 259 144 199 143
+region_code_gt: vn
+plate_number_gt: 59G186895
+plate_inverted_gt: false

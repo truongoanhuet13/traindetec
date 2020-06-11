@@ -1,0 +1,7 @@
+image_file: 0220_06743_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 144 234 136 240 201 166 209
+region_code_gt: vn
+plate_number_gt: 59S181834
+plate_inverted_gt: false

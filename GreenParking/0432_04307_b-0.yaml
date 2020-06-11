@@ -1,0 +1,7 @@
+image_file: 0432_04307_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 196 100 268 98 271 160 197 161
+region_code_gt: vn
+plate_number_gt: 62AP00270
+plate_inverted_gt: false

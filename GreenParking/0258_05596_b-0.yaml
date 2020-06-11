@@ -1,0 +1,7 @@
+image_file: 0258_05596_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 215 191 295 191 295 254 215 258
+region_code_gt: vn
+plate_number_gt: 59P1 78999
+plate_inverted_gt: false

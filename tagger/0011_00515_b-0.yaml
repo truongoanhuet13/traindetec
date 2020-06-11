@@ -1,0 +1,7 @@
+image_file: 0011_00515_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 103 260 103 260 164 186 166
+region_code_gt: vn
+plate_number_gt: 60X46482
+plate_inverted_gt: false

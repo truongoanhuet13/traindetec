@@ -1,0 +1,7 @@
+image_file: 0420_06577_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 250 104 333 111 329 181 246 175
+region_code_gt: vn
+plate_number_gt: 59X124340
+plate_inverted_gt: false

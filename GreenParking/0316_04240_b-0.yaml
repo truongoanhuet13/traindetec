@@ -1,0 +1,7 @@
+image_file: 0316_04240_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 136 249 129 253 192 179 198
+region_code_gt: vn
+plate_number_gt: 59M154192
+plate_inverted_gt: false

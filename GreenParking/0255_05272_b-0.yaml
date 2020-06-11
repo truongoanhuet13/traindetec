@@ -1,0 +1,7 @@
+image_file: 0255_05272_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 190 90 260 96 256 158 186 150
+region_code_gt: vn
+plate_number_gt: 93K114005
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0221_04587_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 76 264 83 259 148 187 139
+region_code_gt: vn
+plate_number_gt: 67M23789
+plate_inverted_gt: false

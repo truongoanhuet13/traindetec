@@ -1,0 +1,7 @@
+image_file: 0236_05259_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 150 240 154 239 207 175 203
+region_code_gt: vn
+plate_number_gt: 59G185820
+plate_inverted_gt: false

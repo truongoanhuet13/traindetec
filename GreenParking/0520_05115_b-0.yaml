@@ -1,0 +1,7 @@
+image_file: 0520_05115_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 146 267 141 272 214 186 218
+region_code_gt: vn
+plate_number_gt: 59U145267
+plate_inverted_gt: false

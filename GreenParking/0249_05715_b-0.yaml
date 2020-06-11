@@ -1,0 +1,7 @@
+image_file: 0249_05715_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 292 165 368 171 364 235 288 229
+region_code_gt: vn
+plate_number_gt: 59M107790
+plate_inverted_gt: false

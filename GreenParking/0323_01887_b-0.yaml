@@ -1,0 +1,7 @@
+image_file: 0323_01887_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 30 245 31 243 100 162 99
+region_code_gt: vn
+plate_number_gt: 59D188728
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0450_06376_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 256 62 334 72 328 139 249 129
+region_code_gt: vn
+plate_number_gt: 93E105119
+plate_inverted_gt: false

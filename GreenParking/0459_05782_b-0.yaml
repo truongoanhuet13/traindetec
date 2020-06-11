@@ -1,0 +1,7 @@
+image_file: 0459_05782_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 152 262 155 258 221 183 215
+region_code_gt: vn
+plate_number_gt: 59M181859
+plate_inverted_gt: false

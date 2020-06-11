@@ -1,0 +1,7 @@
+image_file: 0516_06155_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 208 135 289 136 289 203 208 201
+region_code_gt: vn
+plate_number_gt: 67L133525
+plate_inverted_gt: false

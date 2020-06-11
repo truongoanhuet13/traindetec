@@ -1,0 +1,7 @@
+image_file: 0324_06738_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 227 119 306 117 306 183 227 185
+region_code_gt: vn
+plate_number_gt: 59N144291
+plate_inverted_gt: false

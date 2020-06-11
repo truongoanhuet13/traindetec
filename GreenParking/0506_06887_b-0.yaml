@@ -1,0 +1,7 @@
+image_file: 0506_06887_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 133 142 200 137 206 192 137 197
+region_code_gt: vn
+plate_number_gt: 29B122701
+plate_inverted_gt: false

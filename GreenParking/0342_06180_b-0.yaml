@@ -1,0 +1,7 @@
+image_file: 0342_06180_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 138 190 213 182 217 242 144 249
+region_code_gt: vn
+plate_number_gt: 59T183013
+plate_inverted_gt: false

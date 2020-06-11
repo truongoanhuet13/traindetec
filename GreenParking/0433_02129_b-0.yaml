@@ -1,0 +1,7 @@
+image_file: 0433_02129_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 195 113 278 116 275 189 193 185
+region_code_gt: vn
+plate_number_gt: 55P10009
+plate_inverted_gt: false

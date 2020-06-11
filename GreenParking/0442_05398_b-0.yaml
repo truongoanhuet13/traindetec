@@ -1,0 +1,7 @@
+image_file: 0442_05398_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 211 119 290 118 294 186 213 189
+region_code_gt: vn
+plate_number_gt: 59V218744
+plate_inverted_gt: false

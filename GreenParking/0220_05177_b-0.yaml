@@ -1,0 +1,7 @@
+image_file: 0220_05177_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 57 233 56 236 115 163 118
+region_code_gt: vn
+plate_number_gt: 59S251095
+plate_inverted_gt: false

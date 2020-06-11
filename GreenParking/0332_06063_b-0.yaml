@@ -1,0 +1,7 @@
+image_file: 0332_06063_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 250 95 327 97 323 156 250 157
+region_code_gt: vn
+plate_number_gt: 51S91699
+plate_inverted_gt: false

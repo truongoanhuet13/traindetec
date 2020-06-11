@@ -1,0 +1,7 @@
+image_file: 0308_06731_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 64 226 63 226 122 157 123
+region_code_gt: vn
+plate_number_gt: 59V234815
+plate_inverted_gt: false

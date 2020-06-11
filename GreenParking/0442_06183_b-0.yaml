@@ -1,0 +1,7 @@
+image_file: 0442_06183_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 72 244 75 242 139 168 135
+region_code_gt: vn
+plate_number_gt: 59X141819
+plate_inverted_gt: false

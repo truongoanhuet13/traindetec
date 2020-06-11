@@ -1,0 +1,7 @@
+image_file: 0439_05845_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 212 184 293 188 291 255 211 251
+region_code_gt: vn
+plate_number_gt: 67C1-08347
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0408_06793_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 148 122 232 122 232 193 148 193
+region_code_gt: vn
+plate_number_gt: 47L109977
+plate_inverted_gt: false

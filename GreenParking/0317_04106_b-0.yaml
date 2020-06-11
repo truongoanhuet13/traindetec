@@ -1,0 +1,7 @@
+image_file: 0317_04106_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 167 171 245 167 250 232 170 237
+region_code_gt: vn
+plate_number_gt: 59K196591
+plate_inverted_gt: false

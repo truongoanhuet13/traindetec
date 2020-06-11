@@ -1,0 +1,7 @@
+image_file: 0243_05688_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 207 89 278 91 277 150 206 150
+region_code_gt: vn
+plate_number_gt: 59P133163
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0340_04255_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 150 119 233 119 232 192 149 191
+region_code_gt: vn
+plate_number_gt: 55P81120
+plate_inverted_gt: false

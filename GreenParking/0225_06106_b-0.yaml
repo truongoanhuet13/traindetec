@@ -1,0 +1,7 @@
+image_file: 0225_06106_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 260 106 330 117 323 176 253 166
+region_code_gt: vn
+plate_number_gt: 71H88424
+plate_inverted_gt: false

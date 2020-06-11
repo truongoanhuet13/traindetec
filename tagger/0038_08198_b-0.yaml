@@ -1,0 +1,7 @@
+image_file: 0038_08198_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 138 69 221 70 219 143 136 140
+region_code_gt: vn
+plate_number_gt: 59K190300
+plate_inverted_gt: false

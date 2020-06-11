@@ -1,0 +1,7 @@
+image_file: 0415_06767_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 236 155 318 170 313 236 231 222
+region_code_gt: vn
+plate_number_gt: 60R61172
+plate_inverted_gt: false

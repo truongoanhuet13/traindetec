@@ -1,0 +1,7 @@
+image_file: 0215_01946_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 176 129 252 136 249 201 173 194
+region_code_gt: vn
+plate_number_gt: 59H167791
+plate_inverted_gt: false

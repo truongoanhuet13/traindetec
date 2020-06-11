@@ -1,0 +1,7 @@
+image_file: 0242_06966_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 207 67 264 67 265 115 207 117
+region_code_gt: vn
+plate_number_gt: 85R83682
+plate_inverted_gt: false

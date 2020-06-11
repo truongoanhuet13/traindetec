@@ -1,0 +1,7 @@
+image_file: 0409_05079_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 239 120 316 132 308 196 233 184
+region_code_gt: vn
+plate_number_gt: 53S77589
+plate_inverted_gt: false

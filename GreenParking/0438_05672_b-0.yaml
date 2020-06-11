@@ -1,0 +1,7 @@
+image_file: 0438_05672_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 163 74 243 67 246 137 167 143
+region_code_gt: vn
+plate_number_gt: 94K100202
+plate_inverted_gt: false

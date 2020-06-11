@@ -1,0 +1,7 @@
+image_file: 0259_06081_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 203 44 280 44 281 111 202 111
+region_code_gt: vn
+plate_number_gt: 52Z67766
+plate_inverted_gt: false

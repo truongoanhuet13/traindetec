@@ -1,0 +1,7 @@
+image_file: 0408_01983_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 141 268 143 266 218 183 215
+region_code_gt: vn
+plate_number_gt: 83P213173
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0300_08022_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 259 140 332 147 327 209 254 200
+region_code_gt: vn
+plate_number_gt: 59M190208
+plate_inverted_gt: false

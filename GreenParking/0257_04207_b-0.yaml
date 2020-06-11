@@ -1,0 +1,7 @@
+image_file: 0257_04207_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 207 145 281 147 279 207 206 206
+region_code_gt: vn
+plate_number_gt: 59V233522
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0508_05465_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 114 250 111 253 181 170 183
+region_code_gt: vn
+plate_number_gt: 59Y160271
+plate_inverted_gt: false

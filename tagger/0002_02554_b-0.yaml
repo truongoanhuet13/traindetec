@@ -1,0 +1,7 @@
+image_file: 0002_02554_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 152 285 145 291 216 209 226
+region_code_gt: vn
+plate_number_gt: 59F168955
+plate_inverted_gt: false

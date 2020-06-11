@@ -1,0 +1,7 @@
+image_file: 0229_05817_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 160 94 230 92 232 153 161 155
+region_code_gt: vn
+plate_number_gt: 49E115383
+plate_inverted_gt: false

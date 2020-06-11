@@ -1,0 +1,7 @@
+image_file: 0042_01746_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 236 181 307 189 300 245 233 236
+region_code_gt: vn
+plate_number_gt: 59H10571
+plate_inverted_gt: false

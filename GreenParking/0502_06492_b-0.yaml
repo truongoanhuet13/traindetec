@@ -1,0 +1,7 @@
+image_file: 0502_06492_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 167 105 246 111 242 179 162 172
+region_code_gt: vn
+plate_number_gt: 60U29125
+plate_inverted_gt: false

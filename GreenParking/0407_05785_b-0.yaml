@@ -1,0 +1,7 @@
+image_file: 0407_05785_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 152 108 228 110 227 170 151 168
+region_code_gt: vn
+plate_number_gt: 59P126989
+plate_inverted_gt: false

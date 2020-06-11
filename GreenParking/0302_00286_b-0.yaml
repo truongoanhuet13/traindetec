@@ -1,0 +1,7 @@
+image_file: 0302_00286_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 79 277 74 282 144 203 150
+region_code_gt: vn
+plate_number_gt: 60B104034
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0405_04598_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 249 68 325 82 319 149 239 137
+region_code_gt: vn
+plate_number_gt: 54F28259
+plate_inverted_gt: false

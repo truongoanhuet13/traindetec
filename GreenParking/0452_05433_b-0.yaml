@@ -1,0 +1,7 @@
+image_file: 0452_05433_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 222 60 300 60 300 126 223 128
+region_code_gt: vn
+plate_number_gt: 59C256237
+plate_inverted_gt: false

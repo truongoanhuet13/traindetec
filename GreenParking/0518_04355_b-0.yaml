@@ -1,0 +1,7 @@
+image_file: 0518_04355_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 221 145 293 143 295 204 222 206
+region_code_gt: vn
+plate_number_gt: 54T34538
+plate_inverted_gt: false

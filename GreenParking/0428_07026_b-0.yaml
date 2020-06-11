@@ -1,0 +1,7 @@
+image_file: 0428_07026_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 223 100 296 110 291 168 220 158
+region_code_gt: vn
+plate_number_gt: 63B3 04426
+plate_inverted_gt: false

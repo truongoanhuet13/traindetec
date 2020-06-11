@@ -1,0 +1,7 @@
+image_file: 0231_05886_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 200 241 205 237 258 170 256
+region_code_gt: vn
+plate_number_gt: 77H119025
+plate_inverted_gt: false

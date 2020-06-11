@@ -1,0 +1,7 @@
+image_file: 0231_08286_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 39 259 42 256 112 177 109
+region_code_gt: vn
+plate_number_gt: 60Z77813
+plate_inverted_gt: false

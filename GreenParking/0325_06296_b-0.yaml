@@ -1,0 +1,7 @@
+image_file: 0325_06296_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 135 94 215 93 216 163 135 162
+region_code_gt: vn
+plate_number_gt: 54H35581
+plate_inverted_gt: false

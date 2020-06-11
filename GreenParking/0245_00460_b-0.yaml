@@ -1,0 +1,7 @@
+image_file: 0245_00460_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 89 244 90 242 159 163 159
+region_code_gt: vn
+plate_number_gt: 59T159973
+plate_inverted_gt: false

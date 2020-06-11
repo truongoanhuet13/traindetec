@@ -1,0 +1,7 @@
+image_file: 0249_05720_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 159 127 240 126 242 197 159 196
+region_code_gt: vn
+plate_number_gt: 59H154792
+plate_inverted_gt: false

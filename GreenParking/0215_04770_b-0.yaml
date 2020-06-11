@@ -1,0 +1,7 @@
+image_file: 0215_04770_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 243 57 324 68 316 136 238 127
+region_code_gt: vn
+plate_number_gt: 77H62229
+plate_inverted_gt: false

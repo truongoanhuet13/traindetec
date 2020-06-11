@@ -1,0 +1,7 @@
+image_file: 0459_08033_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 127 289 130 287 197 207 195
+region_code_gt: vn
+plate_number_gt: 59F113230
+plate_inverted_gt: false

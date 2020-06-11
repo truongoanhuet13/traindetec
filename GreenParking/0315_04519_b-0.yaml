@@ -1,0 +1,7 @@
+image_file: 0315_04519_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 95 282 97 280 164 204 162
+region_code_gt: vn
+plate_number_gt: 54T34407
+plate_inverted_gt: false

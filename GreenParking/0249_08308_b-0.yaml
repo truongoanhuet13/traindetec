@@ -1,0 +1,7 @@
+image_file: 0249_08308_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 259 46 337 51 335 121 254 116
+region_code_gt: vn
+plate_number_gt: 54T20810
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0521_04268_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 121 249 123 247 180 178 178
+region_code_gt: vn
+plate_number_gt: 78N25941
+plate_inverted_gt: false

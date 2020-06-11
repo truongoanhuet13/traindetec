@@ -1,0 +1,7 @@
+image_file: 0243_07306_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 293 123 361 132 355 190 287 181
+region_code_gt: vn
+plate_number_gt: 59P139355
+plate_inverted_gt: false

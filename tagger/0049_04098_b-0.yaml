@@ -1,0 +1,7 @@
+image_file: 0049_04098_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 257 113 329 121 323 182 253 175
+region_code_gt: vn
+plate_number_gt: 60B157122
+plate_inverted_gt: false

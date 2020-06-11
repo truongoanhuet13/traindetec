@@ -1,0 +1,7 @@
+image_file: 0415_05278_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 109 292 110 293 179 213 178
+region_code_gt: vn
+plate_number_gt: 84L132547
+plate_inverted_gt: false

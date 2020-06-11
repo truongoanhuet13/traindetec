@@ -1,0 +1,7 @@
+image_file: 0353_04104_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 220 95 302 106 298 176 217 165
+region_code_gt: vn
+plate_number_gt: 52F38889
+plate_inverted_gt: false

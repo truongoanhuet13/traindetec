@@ -1,0 +1,7 @@
+image_file: 0219_05548_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 282 63 363 71 357 139 277 132
+region_code_gt: vn
+plate_number_gt: 59X137438
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0519_08151_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 236 55 315 56 313 120 237 120
+region_code_gt: vn
+plate_number_gt: 59C131162
+plate_inverted_gt: false

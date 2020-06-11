@@ -1,0 +1,7 @@
+image_file: 0240_05990_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 141 90 218 93 216 158 141 155
+region_code_gt: vn
+plate_number_gt: 54L42443
+plate_inverted_gt: false

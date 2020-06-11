@@ -1,0 +1,7 @@
+image_file: 0020_07156_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 148 246 151 242 202 175 198
+region_code_gt: vn
+plate_number_gt: 59N169575
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0305_08299_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 102 256 111 248 180 165 174
+region_code_gt: vn
+plate_number_gt: 55P8 9613
+plate_inverted_gt: false

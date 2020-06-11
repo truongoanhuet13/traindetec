@@ -1,0 +1,7 @@
+image_file: 0220_06737_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 175 260 169 265 244 178 250
+region_code_gt: vn
+plate_number_gt: 76G111649
+plate_inverted_gt: false

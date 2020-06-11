@@ -1,0 +1,7 @@
+image_file: 0219_01300_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 109 282 102 288 171 208 178
+region_code_gt: vn
+plate_number_gt: 63B216353
+plate_inverted_gt: false

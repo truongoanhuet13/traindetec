@@ -1,0 +1,7 @@
+image_file: 0410_05881_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 26 263 32 258 100 181 96
+region_code_gt: vn
+plate_number_gt: 93B117085
+plate_inverted_gt: false

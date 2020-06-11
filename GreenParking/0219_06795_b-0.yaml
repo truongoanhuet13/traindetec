@@ -1,0 +1,7 @@
+image_file: 0219_06795_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 51 252 50 254 121 171 123
+region_code_gt: vn
+plate_number_gt: 68X121002
+plate_inverted_gt: false

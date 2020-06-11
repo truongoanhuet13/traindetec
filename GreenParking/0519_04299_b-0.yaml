@@ -1,0 +1,7 @@
+image_file: 0519_04299_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 218 133 294 146 287 208 214 194
+region_code_gt: vn
+plate_number_gt: 66S112239
+plate_inverted_gt: false

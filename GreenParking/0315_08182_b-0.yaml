@@ -1,0 +1,7 @@
+image_file: 0315_08182_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 186 262 192 257 256 182 249
+region_code_gt: vn
+plate_number_gt: 59U139380
+plate_inverted_gt: false

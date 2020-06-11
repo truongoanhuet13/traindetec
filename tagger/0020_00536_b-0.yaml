@@ -1,0 +1,7 @@
+image_file: 0020_00536_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 160 81 231 81 232 139 161 140
+region_code_gt: vn
+plate_number_gt: 67C105355
+plate_inverted_gt: false

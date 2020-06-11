@@ -1,0 +1,7 @@
+image_file: 0013_05647_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 172 111 240 114 239 169 170 165
+region_code_gt: vn
+plate_number_gt: 59F116711
+plate_inverted_gt: false

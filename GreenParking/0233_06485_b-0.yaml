@@ -1,0 +1,7 @@
+image_file: 0233_06485_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 56 248 55 247 114 179 115
+region_code_gt: vn
+plate_number_gt: 59Y171364
+plate_inverted_gt: false

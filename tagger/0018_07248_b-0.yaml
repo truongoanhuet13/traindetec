@@ -1,0 +1,7 @@
+image_file: 0018_07248_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 243 121 313 130 308 187 238 177
+region_code_gt: vn
+plate_number_gt: 77F130541
+plate_inverted_gt: false

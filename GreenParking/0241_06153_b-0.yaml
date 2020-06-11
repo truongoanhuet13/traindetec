@@ -1,0 +1,7 @@
+image_file: 0241_06153_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 98 245 102 242 163 171 158
+region_code_gt: vn
+plate_number_gt: 60F201949
+plate_inverted_gt: false

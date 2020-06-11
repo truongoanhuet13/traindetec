@@ -1,0 +1,7 @@
+image_file: 0222_08157_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 203 93 268 92 269 145 204 148
+region_code_gt: vn
+plate_number_gt: 62S3-5031
+plate_inverted_gt: false

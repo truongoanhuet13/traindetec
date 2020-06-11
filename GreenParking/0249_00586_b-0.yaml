@@ -1,0 +1,7 @@
+image_file: 0249_00586_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 141 267 140 268 210 185 212
+region_code_gt: vn
+plate_number_gt: 59S208082
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0054_00940_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 106 242 107 241 156 182 156
+region_code_gt: vn
+plate_number_gt: 59L154063
+plate_inverted_gt: false

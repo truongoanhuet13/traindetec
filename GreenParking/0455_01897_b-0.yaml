@@ -1,0 +1,7 @@
+image_file: 0455_01897_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 223 262 222 261 285 181 283
+region_code_gt: vn
+plate_number_gt: 51H32153
+plate_inverted_gt: false

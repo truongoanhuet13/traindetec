@@ -1,0 +1,7 @@
+image_file: 0450_05991_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 261 206 344 216 337 284 255 272
+region_code_gt: vn
+plate_number_gt: 72D108682
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0240_06439_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 226 116 291 120 288 178 222 174
+region_code_gt: vn
+plate_number_gt: 59P125512
+plate_inverted_gt: false

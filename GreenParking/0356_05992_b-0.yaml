@@ -1,0 +1,7 @@
+image_file: 0356_05992_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 142 72 221 72 220 136 144 136
+region_code_gt: vn
+plate_number_gt: 59Y167452
+plate_inverted_gt: false

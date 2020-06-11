@@ -1,0 +1,7 @@
+image_file: 0502_05240_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 188 148 276 149 275 224 188 222
+region_code_gt: vn
+plate_number_gt: 92H142107
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0445_06276_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 172 73 242 75 240 135 170 133
+region_code_gt: vn
+plate_number_gt: 54M25694
+plate_inverted_gt: false

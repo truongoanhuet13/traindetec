@@ -1,0 +1,7 @@
+image_file: 0042_01141_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 97 288 95 289 158 215 161
+region_code_gt: vn
+plate_number_gt: 59T188808
+plate_inverted_gt: false

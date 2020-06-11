@@ -1,0 +1,7 @@
+image_file: 0326_07094_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 152 109 235 114 231 186 149 179
+region_code_gt: vn
+plate_number_gt: 54T54498
+plate_inverted_gt: false

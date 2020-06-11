@@ -1,0 +1,7 @@
+image_file: 0221_06536_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 132 293 138 288 205 209 201
+region_code_gt: vn
+plate_number_gt: 82B126169
+plate_inverted_gt: false

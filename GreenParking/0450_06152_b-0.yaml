@@ -1,0 +1,7 @@
+image_file: 0450_06152_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 266 116 344 124 340 194 260 183
+region_code_gt: vn
+plate_number_gt: 59M111811
+plate_inverted_gt: false

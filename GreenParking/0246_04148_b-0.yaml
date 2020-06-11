@@ -1,0 +1,7 @@
+image_file: 0246_04148_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 206 100 287 101 286 170 206 168
+region_code_gt: vn
+plate_number_gt: 51F91341
+plate_inverted_gt: false

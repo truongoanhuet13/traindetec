@@ -1,0 +1,7 @@
+image_file: 0311_05772_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 197 70 267 69 268 129 199 130
+region_code_gt: vn
+plate_number_gt: 59E162847
+plate_inverted_gt: false

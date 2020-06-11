@@ -1,0 +1,7 @@
+image_file: 0246_01333_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 141 140 222 144 222 215 139 211
+region_code_gt: vn
+plate_number_gt: 59C246326
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0233_05608_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 167 165 238 165 238 225 167 225
+region_code_gt: vn
+plate_number_gt: 59P192893
+plate_inverted_gt: false

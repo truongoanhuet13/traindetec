@@ -1,0 +1,7 @@
+image_file: 0325_00635_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 181 268 179 268 247 186 250
+region_code_gt: vn
+plate_number_gt: 59L178582
+plate_inverted_gt: false

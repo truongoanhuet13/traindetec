@@ -1,0 +1,7 @@
+image_file: 0435_01526_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 70 244 67 245 134 169 134
+region_code_gt: vn
+plate_number_gt: 79L40995
+plate_inverted_gt: false

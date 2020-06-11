@@ -1,0 +1,7 @@
+image_file: 0316_06919_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 220 58 289 63 286 121 217 117
+region_code_gt: vn
+plate_number_gt: 54L51899
+plate_inverted_gt: false

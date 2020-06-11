@@ -1,0 +1,7 @@
+image_file: 0223_05868_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 171 100 243 100 244 162 172 165
+region_code_gt: vn
+plate_number_gt: 77L100895
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0519_06635_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 168 62 237 63 237 121 169 122
+region_code_gt: vn
+plate_number_gt: 54L48062
+plate_inverted_gt: false

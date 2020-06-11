@@ -1,0 +1,7 @@
+image_file: 0502_06701_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 127 255 128 254 189 182 187
+region_code_gt: vn
+plate_number_gt: 59S144895
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0407_06979_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 9 250 11 248 77 172 74
+region_code_gt: vn
+plate_number_gt: 63B346905
+plate_inverted_gt: false

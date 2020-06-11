@@ -1,0 +1,7 @@
+image_file: 0438_04055_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 96 264 95 264 160 187 161
+region_code_gt: vn
+plate_number_gt: 59F154573
+plate_inverted_gt: false

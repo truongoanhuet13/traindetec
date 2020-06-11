@@ -1,0 +1,7 @@
+image_file: 0304_06288_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 190 111 274 112 273 180 191 178
+region_code_gt: vn
+plate_number_gt: 77F79919
+plate_inverted_gt: false

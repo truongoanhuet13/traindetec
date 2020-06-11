@@ -1,0 +1,7 @@
+image_file: 0258_02192_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 211 133 288 131 289 198 213 200
+region_code_gt: vn
+plate_number_gt: 59H147751
+plate_inverted_gt: false

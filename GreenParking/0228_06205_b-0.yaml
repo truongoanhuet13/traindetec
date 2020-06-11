@@ -1,0 +1,7 @@
+image_file: 0228_06205_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 84 258 87 255 148 185 144
+region_code_gt: vn
+plate_number_gt: 77M63369
+plate_inverted_gt: false

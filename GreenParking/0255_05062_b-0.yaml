@@ -1,0 +1,7 @@
+image_file: 0255_05062_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 97 258 95 259 158 186 160
+region_code_gt: vn
+plate_number_gt: 86C147515
+plate_inverted_gt: false

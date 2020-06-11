@@ -1,0 +1,7 @@
+image_file: 0455_02271_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 227 112 309 104 314 173 233 184
+region_code_gt: vn
+plate_number_gt: 59M187668
+plate_inverted_gt: false

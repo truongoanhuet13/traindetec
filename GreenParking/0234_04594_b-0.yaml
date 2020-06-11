@@ -1,0 +1,7 @@
+image_file: 0234_04594_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 104 97 175 86 183 149 111 156
+region_code_gt: vn
+plate_number_gt: 53X66011
+plate_inverted_gt: false

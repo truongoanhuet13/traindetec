@@ -1,0 +1,7 @@
+image_file: 0235_04524_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 117 282 123 281 194 200 189
+region_code_gt: vn
+plate_number_gt: 54T19588
+plate_inverted_gt: false

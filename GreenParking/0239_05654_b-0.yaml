@@ -1,0 +1,7 @@
+image_file: 0239_05654_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 179 94 239 96 240 149 179 146
+region_code_gt: vn
+plate_number_gt: 59F132246
+plate_inverted_gt: false

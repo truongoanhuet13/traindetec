@@ -1,0 +1,7 @@
+image_file: 0351_07377_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 177 142 258 144 256 214 176 209
+region_code_gt: vn
+plate_number_gt: 54Y93476
+plate_inverted_gt: false

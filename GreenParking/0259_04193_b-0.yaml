@@ -1,0 +1,7 @@
+image_file: 0259_04193_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 167 252 173 248 237 170 233
+region_code_gt: vn
+plate_number_gt: 54S16830
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0453_07373_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 199 278 198 277 264 200 264
+region_code_gt: vn
+plate_number_gt: 59T100381
+plate_inverted_gt: false

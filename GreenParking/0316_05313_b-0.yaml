@@ -1,0 +1,7 @@
+image_file: 0316_05313_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 139 162 220 163 218 231 138 229
+region_code_gt: vn
+plate_number_gt: 59K144076
+plate_inverted_gt: false

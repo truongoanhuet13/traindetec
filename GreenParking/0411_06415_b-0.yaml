@@ -1,0 +1,7 @@
+image_file: 0411_06415_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 75 269 77 269 143 191 141
+region_code_gt: vn
+plate_number_gt: 59E158284
+plate_inverted_gt: false

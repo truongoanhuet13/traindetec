@@ -1,0 +1,7 @@
+image_file: 0251_07030_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 208 77 280 78 280 139 208 139
+region_code_gt: vn
+plate_number_gt: 76G122607
+plate_inverted_gt: false

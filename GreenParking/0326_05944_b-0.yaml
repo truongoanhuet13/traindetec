@@ -1,0 +1,7 @@
+image_file: 0326_05944_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 116 265 125 260 195 178 188
+region_code_gt: vn
+plate_number_gt: 59T114860
+plate_inverted_gt: false

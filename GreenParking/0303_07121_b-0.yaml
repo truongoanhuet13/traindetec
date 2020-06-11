@@ -1,0 +1,7 @@
+image_file: 0303_07121_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 287 99 367 108 362 178 281 169
+region_code_gt: vn
+plate_number_gt: 59M146204
+plate_inverted_gt: false

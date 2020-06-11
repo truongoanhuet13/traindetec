@@ -1,0 +1,7 @@
+image_file: 0412_02169_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 139 136 220 135 222 208 139 209
+region_code_gt: vn
+plate_number_gt: 54F16743
+plate_inverted_gt: false

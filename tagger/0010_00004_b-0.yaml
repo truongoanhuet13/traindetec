@@ -1,0 +1,7 @@
+image_file: 0010_00004_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 198 143 272 143 271 203 197 203
+region_code_gt: vn
+plate_number_gt: 59F107509
+plate_inverted_gt: false

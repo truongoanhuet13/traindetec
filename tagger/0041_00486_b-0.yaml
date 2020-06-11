@@ -1,0 +1,7 @@
+image_file: 0041_00486_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 161 115 250 116 248 189 160 188
+region_code_gt: vn
+plate_number_gt: 68H74213
+plate_inverted_gt: false

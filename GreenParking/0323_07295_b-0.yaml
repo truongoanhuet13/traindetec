@@ -1,0 +1,7 @@
+image_file: 0323_07295_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 154 279 152 280 214 206 216
+region_code_gt: vn
+plate_number_gt: 59H135460
+plate_inverted_gt: false

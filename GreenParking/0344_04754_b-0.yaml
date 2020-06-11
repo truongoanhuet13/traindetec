@@ -1,0 +1,7 @@
+image_file: 0344_04754_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 110 282 109 285 179 202 180
+region_code_gt: vn
+plate_number_gt: 61N40663
+plate_inverted_gt: false

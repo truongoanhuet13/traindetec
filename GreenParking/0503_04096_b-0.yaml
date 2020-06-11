@@ -1,0 +1,7 @@
+image_file: 0503_04096_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 111 275 113 275 171 203 170
+region_code_gt: vn
+plate_number_gt: 93C102079
+plate_inverted_gt: false

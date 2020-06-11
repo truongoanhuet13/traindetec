@@ -1,0 +1,7 @@
+image_file: 0341_06533_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 168 260 172 257 236 182 236
+region_code_gt: vn
+plate_number_gt: 59Y276796
+plate_inverted_gt: false

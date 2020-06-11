@@ -1,0 +1,7 @@
+image_file: 0335_06470_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 68 280 66 282 135 202 136
+region_code_gt: vn
+plate_number_gt: 54P73985
+plate_inverted_gt: false

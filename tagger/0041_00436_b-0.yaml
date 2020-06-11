@@ -1,0 +1,7 @@
+image_file: 0041_00436_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 66 243 64 243 114 184 115
+region_code_gt: vn
+plate_number_gt: 59M103519
+plate_inverted_gt: false

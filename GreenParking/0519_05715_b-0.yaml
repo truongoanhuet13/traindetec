@@ -1,0 +1,7 @@
+image_file: 0519_05715_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 164 127 237 133 235 197 161 190
+region_code_gt: vn
+plate_number_gt: 59T100985
+plate_inverted_gt: false

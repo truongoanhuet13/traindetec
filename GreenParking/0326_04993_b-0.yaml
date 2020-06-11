@@ -1,0 +1,7 @@
+image_file: 0326_04993_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 264 150 349 157 344 227 261 220
+region_code_gt: vn
+plate_number_gt: 77F125389
+plate_inverted_gt: false

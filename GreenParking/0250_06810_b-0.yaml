@@ -1,0 +1,7 @@
+image_file: 0250_06810_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 188 69 258 70 258 131 188 129
+region_code_gt: vn
+plate_number_gt: 59L148183
+plate_inverted_gt: false

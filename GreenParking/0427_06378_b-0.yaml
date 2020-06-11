@@ -1,0 +1,7 @@
+image_file: 0427_06378_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 185 264 186 261 251 184 249
+region_code_gt: vn
+plate_number_gt: 59D178262
+plate_inverted_gt: false

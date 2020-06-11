@@ -1,0 +1,7 @@
+image_file: 0444_08080_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 145 146 228 151 224 216 143 213
+region_code_gt: vn
+plate_number_gt: 59C1-16349
+plate_inverted_gt: false

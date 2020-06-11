@@ -1,0 +1,7 @@
+image_file: 0318_05402_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 252 128 330 131 327 195 251 192
+region_code_gt: vn
+plate_number_gt: 54L18811
+plate_inverted_gt: false

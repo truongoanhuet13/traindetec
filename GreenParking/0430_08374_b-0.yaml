@@ -1,0 +1,7 @@
+image_file: 0430_08374_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 99 283 89 291 157 213 167
+region_code_gt: vn
+plate_number_gt: 59U186123
+plate_inverted_gt: false

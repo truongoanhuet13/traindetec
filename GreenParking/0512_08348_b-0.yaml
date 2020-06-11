@@ -1,0 +1,7 @@
+image_file: 0512_08348_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 253 71 322 78 316 134 249 124
+region_code_gt: vn
+plate_number_gt: 59C131162
+plate_inverted_gt: false

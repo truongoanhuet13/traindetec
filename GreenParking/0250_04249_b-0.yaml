@@ -1,0 +1,7 @@
+image_file: 0250_04249_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 253 87 330 85 333 152 255 154
+region_code_gt: vn
+plate_number_gt: 49B123354
+plate_inverted_gt: false

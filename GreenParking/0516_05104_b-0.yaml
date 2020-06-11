@@ -1,0 +1,7 @@
+image_file: 0516_05104_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 160 126 243 125 243 197 160 196
+region_code_gt: vn
+plate_number_gt: 79H34211
+plate_inverted_gt: false

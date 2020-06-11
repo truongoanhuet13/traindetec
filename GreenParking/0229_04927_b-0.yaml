@@ -1,0 +1,7 @@
+image_file: 0229_04927_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 269 130 344 139 338 202 263 192
+region_code_gt: vn
+plate_number_gt: 59P147969
+plate_inverted_gt: false

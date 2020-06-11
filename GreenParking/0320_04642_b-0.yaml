@@ -1,0 +1,7 @@
+image_file: 0320_04642_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 273 88 350 103 342 170 264 156
+region_code_gt: vn
+plate_number_gt: 59X132817
+plate_inverted_gt: false

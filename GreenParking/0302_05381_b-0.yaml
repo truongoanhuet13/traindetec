@@ -1,0 +1,7 @@
+image_file: 0302_05381_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 148 47 227 47 226 112 148 110
+region_code_gt: vn
+plate_number_gt: 52H40234
+plate_inverted_gt: false

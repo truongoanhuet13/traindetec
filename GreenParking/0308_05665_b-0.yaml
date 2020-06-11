@@ -1,0 +1,7 @@
+image_file: 0308_05665_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 99 231 102 229 165 154 162
+region_code_gt: vn
+plate_number_gt: 59X1-21394
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0518_07075_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 122 268 123 267 187 192 186
+region_code_gt: vn
+plate_number_gt: 59K199217
+plate_inverted_gt: false

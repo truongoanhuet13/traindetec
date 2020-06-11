@@ -1,0 +1,7 @@
+image_file: 0041_00697_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 126 112 201 119 201 184 123 176
+region_code_gt: vn
+plate_number_gt: 54Z87524
+plate_inverted_gt: false

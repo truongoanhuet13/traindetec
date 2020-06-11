@@ -1,0 +1,7 @@
+image_file: 0225_01589_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 164 136 247 132 250 203 169 210
+region_code_gt: vn
+plate_number_gt: 59B138559
+plate_inverted_gt: false

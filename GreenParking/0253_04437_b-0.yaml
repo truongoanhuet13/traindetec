@@ -1,0 +1,7 @@
+image_file: 0253_04437_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 226 91 284 93 285 143 226 143
+region_code_gt: vn
+plate_number_gt: 59S124831
+plate_inverted_gt: false

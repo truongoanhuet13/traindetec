@@ -1,0 +1,7 @@
+image_file: 0441_04007_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 195 53 271 52 274 119 197 121
+region_code_gt: vn
+plate_number_gt: 81U100276
+plate_inverted_gt: false

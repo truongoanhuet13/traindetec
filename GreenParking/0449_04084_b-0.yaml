@@ -1,0 +1,7 @@
+image_file: 0449_04084_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 249 183 340 191 335 264 247 258
+region_code_gt: vn
+plate_number_gt: 59S195762
+plate_inverted_gt: false

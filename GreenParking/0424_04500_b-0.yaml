@@ -1,0 +1,7 @@
+image_file: 0424_04500_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 258 136 342 140 338 214 254 209
+region_code_gt: vn
+plate_number_gt: 51LD5634
+plate_inverted_gt: false

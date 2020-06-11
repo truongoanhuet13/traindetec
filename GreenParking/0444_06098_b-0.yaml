@@ -1,0 +1,7 @@
+image_file: 0444_06098_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 41 255 41 256 100 188 100
+region_code_gt: vn
+plate_number_gt: 62N136934
+plate_inverted_gt: false

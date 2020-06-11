@@ -1,0 +1,7 @@
+image_file: 0312_05588_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 152 162 234 159 239 232 154 234
+region_code_gt: vn
+plate_number_gt: 79Z15804
+plate_inverted_gt: false

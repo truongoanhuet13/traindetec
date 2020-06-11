@@ -1,0 +1,7 @@
+image_file: 0429_04989_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 272 112 353 126 345 197 263 182
+region_code_gt: vn
+plate_number_gt: 54T23353
+plate_inverted_gt: false

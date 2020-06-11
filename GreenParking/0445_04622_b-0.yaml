@@ -1,0 +1,7 @@
+image_file: 0445_04622_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 226 165 312 167 308 235 225 234
+region_code_gt: vn
+plate_number_gt: 59N193305
+plate_inverted_gt: false

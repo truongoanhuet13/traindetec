@@ -1,0 +1,7 @@
+image_file: 0445_06130_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 140 281 146 277 202 204 198
+region_code_gt: vn
+plate_number_gt: 59T162133
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0443_06465_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 170 272 173 269 249 182 243
+region_code_gt: vn
+plate_number_gt: 76U115178
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0425_07246_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 206 292 225 279 293 195 276
+region_code_gt: vn
+plate_number_gt: 59Y154776
+plate_inverted_gt: false

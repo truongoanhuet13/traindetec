@@ -1,0 +1,7 @@
+image_file: 0321_07303_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 144 266 144 267 213 187 213
+region_code_gt: vn
+plate_number_gt: 54S13034
+plate_inverted_gt: false

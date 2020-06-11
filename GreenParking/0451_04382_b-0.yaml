@@ -1,0 +1,7 @@
+image_file: 0451_04382_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 136 143 212 138 218 203 140 208
+region_code_gt: vn
+plate_number_gt: 53P24531
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0228_01938_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 212 120 293 116 296 184 215 190
+region_code_gt: vn
+plate_number_gt: 59N110425
+plate_inverted_gt: false

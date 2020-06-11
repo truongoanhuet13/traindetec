@@ -1,0 +1,7 @@
+image_file: 0240_06702_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 68 238 63 242 120 175 124
+region_code_gt: vn
+plate_number_gt: 52N52030
+plate_inverted_gt: false

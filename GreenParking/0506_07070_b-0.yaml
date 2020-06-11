@@ -1,0 +1,7 @@
+image_file: 0506_07070_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 208 132 286 129 286 193 209 195
+region_code_gt: vn
+plate_number_gt: 59D185619
+plate_inverted_gt: false

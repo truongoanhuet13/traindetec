@@ -1,0 +1,7 @@
+image_file: 0520_06287_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 101 243 99 243 163 168 165
+region_code_gt: vn
+plate_number_gt: 54R47039
+plate_inverted_gt: false

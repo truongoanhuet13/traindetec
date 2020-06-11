@@ -1,0 +1,7 @@
+image_file: 0456_05106_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 195 82 275 78 280 148 200 153
+region_code_gt: vn
+plate_number_gt: 82B119789
+plate_inverted_gt: false

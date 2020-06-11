@@ -1,0 +1,7 @@
+image_file: 0520_06296_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 172 79 244 83 245 150 169 147
+region_code_gt: vn
+plate_number_gt: 52Y65446
+plate_inverted_gt: false

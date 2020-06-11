@@ -1,0 +1,7 @@
+image_file: 0513_02547_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 133 128 210 117 218 184 140 194
+region_code_gt: vn
+plate_number_gt: 54Z31084
+plate_inverted_gt: false

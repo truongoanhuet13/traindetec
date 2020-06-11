@@ -1,0 +1,7 @@
+image_file: 0043_01757_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 111 254 107 257 171 184 174
+region_code_gt: vn
+plate_number_gt: 65F131532
+plate_inverted_gt: false

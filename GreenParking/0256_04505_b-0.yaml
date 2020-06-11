@@ -1,0 +1,7 @@
+image_file: 0256_04505_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 151 156 221 155 221 214 149 215
+region_code_gt: vn
+plate_number_gt: 59U184366
+plate_inverted_gt: false

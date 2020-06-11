@@ -1,0 +1,7 @@
+image_file: 0304_05676_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 191 67 264 70 263 134 190 129
+region_code_gt: vn
+plate_number_gt: 59F163186
+plate_inverted_gt: false

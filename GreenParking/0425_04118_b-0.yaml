@@ -1,0 +1,7 @@
+image_file: 0425_04118_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 157 98 238 95 240 165 160 165
+region_code_gt: vn
+plate_number_gt: 67M25949
+plate_inverted_gt: false

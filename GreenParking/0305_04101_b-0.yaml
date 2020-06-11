@@ -1,0 +1,7 @@
+image_file: 0305_04101_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 200 254 195 256 257 180 260
+region_code_gt: vn
+plate_number_gt: 59S221969
+plate_inverted_gt: false

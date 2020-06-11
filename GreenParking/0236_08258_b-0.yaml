@@ -1,0 +1,7 @@
+image_file: 0236_08258_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 165 92 245 90 246 160 166 160
+region_code_gt: vn
+plate_number_gt: 61G125122
+plate_inverted_gt: false

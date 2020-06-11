@@ -1,0 +1,7 @@
+image_file: 0446_05976_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 179 73 255 78 253 144 176 139
+region_code_gt: vn
+plate_number_gt: 54U25965
+plate_inverted_gt: false

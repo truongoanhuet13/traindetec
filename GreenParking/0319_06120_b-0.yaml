@@ -1,0 +1,7 @@
+image_file: 0319_06120_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 224 87 303 89 301 155 222 153
+region_code_gt: vn
+plate_number_gt: 72C105018
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0453_06762_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 212 168 288 166 288 225 213 226
+region_code_gt: vn
+plate_number_gt: 52T85761
+plate_inverted_gt: false

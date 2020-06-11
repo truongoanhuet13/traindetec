@@ -1,0 +1,7 @@
+image_file: 0300_05485_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 119 257 122 255 187 176 185
+region_code_gt: vn
+plate_number_gt: 72C178916
+plate_inverted_gt: false

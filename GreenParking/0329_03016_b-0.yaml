@@ -1,0 +1,7 @@
+image_file: 0329_03016_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 149 154 229 153 229 220 151 222
+region_code_gt: vn
+plate_number_gt: 54M29266
+plate_inverted_gt: false

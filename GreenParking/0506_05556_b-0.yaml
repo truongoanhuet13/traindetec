@@ -1,0 +1,7 @@
+image_file: 0506_05556_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 168 95 236 93 240 154 170 156
+region_code_gt: vn
+plate_number_gt: 67M136037
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0411_04594_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 8 261 13 258 81 180 77
+region_code_gt: vn
+plate_number_gt: 62G109736
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0325_01702_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 222 167 308 170 309 245 223 242
+region_code_gt: vn
+plate_number_gt: 59F103055
+plate_inverted_gt: false

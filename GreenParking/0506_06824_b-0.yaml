@@ -1,0 +1,7 @@
+image_file: 0506_06824_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 164 106 240 107 239 171 163 171
+region_code_gt: vn
+plate_number_gt: 47R12443
+plate_inverted_gt: false

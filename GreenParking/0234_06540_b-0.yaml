@@ -1,0 +1,7 @@
+image_file: 0234_06540_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 160 77 218 78 218 126 161 124
+region_code_gt: vn
+plate_number_gt: 59H152512
+plate_inverted_gt: false

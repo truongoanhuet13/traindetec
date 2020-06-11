@@ -1,0 +1,7 @@
+image_file: 0258_05908_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 103 270 97 277 170 195 174
+region_code_gt: vn
+plate_number_gt: 55Y48437
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0244_06639_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 182 169 259 167 261 231 184 234
+region_code_gt: vn
+plate_number_gt: 59U184366
+plate_inverted_gt: false

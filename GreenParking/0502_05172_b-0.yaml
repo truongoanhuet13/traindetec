@@ -1,0 +1,7 @@
+image_file: 0502_05172_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 107 251 106 253 174 172 176
+region_code_gt: vn
+plate_number_gt: 59C167790
+plate_inverted_gt: false

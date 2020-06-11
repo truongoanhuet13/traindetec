@@ -1,0 +1,7 @@
+image_file: 0238_04133_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 143 94 220 89 225 158 146 161
+region_code_gt: vn
+plate_number_gt: 59P124497
+plate_inverted_gt: false

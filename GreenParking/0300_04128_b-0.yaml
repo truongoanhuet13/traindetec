@@ -1,0 +1,7 @@
+image_file: 0300_04128_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 72 250 69 252 129 182 131
+region_code_gt: vn
+plate_number_gt: 59H143564
+plate_inverted_gt: false

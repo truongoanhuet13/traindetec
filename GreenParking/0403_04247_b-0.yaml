@@ -1,0 +1,7 @@
+image_file: 0403_04247_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 132 249 132 248 197 169 198
+region_code_gt: vn
+plate_number_gt: 59T127908
+plate_inverted_gt: false

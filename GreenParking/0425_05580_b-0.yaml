@@ -1,0 +1,7 @@
+image_file: 0425_05580_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 263 89 347 106 335 176 251 155
+region_code_gt: vn
+plate_number_gt: 51M21890
+plate_inverted_gt: false

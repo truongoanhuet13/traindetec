@@ -1,0 +1,7 @@
+image_file: 0311_08018_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 201 56 272 60 270 121 199 117
+region_code_gt: vn
+plate_number_gt: 54X37676
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0316_08096_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 100 266 102 262 172 184 169
+region_code_gt: vn
+plate_number_gt: 59V153310
+plate_inverted_gt: false

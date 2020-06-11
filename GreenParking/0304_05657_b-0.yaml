@@ -1,0 +1,7 @@
+image_file: 0304_05657_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 51 262 51 263 112 193 111
+region_code_gt: vn
+plate_number_gt: 54X99300
+plate_inverted_gt: false

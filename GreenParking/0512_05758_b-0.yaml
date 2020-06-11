@@ -1,0 +1,7 @@
+image_file: 0512_05758_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 243 107 324 119 316 189 234 177
+region_code_gt: vn
+plate_number_gt: 54P46793
+plate_inverted_gt: false

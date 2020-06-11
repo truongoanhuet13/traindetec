@@ -1,0 +1,7 @@
+image_file: 0312_07010_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 159 125 246 132 241 204 157 197
+region_code_gt: vn
+plate_number_gt: 59L167824
+plate_inverted_gt: false

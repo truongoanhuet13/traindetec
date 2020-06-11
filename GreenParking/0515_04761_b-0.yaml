@@ -1,0 +1,7 @@
+image_file: 0515_04761_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 137 275 129 280 192 206 201
+region_code_gt: vn
+plate_number_gt: 73G117544
+plate_inverted_gt: false

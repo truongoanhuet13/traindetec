@@ -1,0 +1,7 @@
+image_file: 0220_06927_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 159 57 230 53 232 114 161 115
+region_code_gt: vn
+plate_number_gt: 59P133458
+plate_inverted_gt: false

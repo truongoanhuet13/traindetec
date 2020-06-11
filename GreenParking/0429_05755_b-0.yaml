@@ -1,0 +1,7 @@
+image_file: 0429_05755_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 279 101 363 119 353 190 272 173
+region_code_gt: vn
+plate_number_gt: 51L30352
+plate_inverted_gt: false

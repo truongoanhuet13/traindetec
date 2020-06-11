@@ -1,0 +1,7 @@
+image_file: 0054_05482_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 233 110 319 122 311 191 225 179
+region_code_gt: vn
+plate_number_gt: 59S216555
+plate_inverted_gt: false

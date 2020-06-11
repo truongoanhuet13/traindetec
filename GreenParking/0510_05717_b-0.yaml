@@ -1,0 +1,7 @@
+image_file: 0510_05717_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 174 285 176 282 239 208 238
+region_code_gt: vn
+plate_number_gt: 59G161590
+plate_inverted_gt: false

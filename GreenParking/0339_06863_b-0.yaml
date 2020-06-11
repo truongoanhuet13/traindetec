@@ -1,0 +1,7 @@
+image_file: 0339_06863_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 188 130 263 131 261 194 185 193
+region_code_gt: vn
+plate_number_gt: 59S191667
+plate_inverted_gt: false

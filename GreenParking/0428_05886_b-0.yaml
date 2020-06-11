@@ -1,0 +1,6 @@
+image_file: 0428_05886_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 224 68 302 77 295 145 218 135
+plate_number_gt: 59V159230
+plate_inverted_gt: false

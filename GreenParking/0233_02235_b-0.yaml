@@ -1,0 +1,7 @@
+image_file: 0233_02235_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 197 119 259 114 262 167 200 172
+region_code_gt: vn
+plate_number_gt: 63B1-40991
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0313_06899_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 211 182 281 182 279 237 212 238
+region_code_gt: vn
+plate_number_gt: 59S226754
+plate_inverted_gt: false

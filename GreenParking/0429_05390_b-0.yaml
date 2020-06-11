@@ -1,0 +1,7 @@
+image_file: 0429_05390_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 207 43 290 48 288 114 207 112
+region_code_gt: vn
+plate_number_gt: 59U176947
+plate_inverted_gt: false

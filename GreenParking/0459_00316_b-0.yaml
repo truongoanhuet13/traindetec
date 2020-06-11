@@ -1,0 +1,7 @@
+image_file: 0459_00316_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 227 126 305 128 302 195 226 194
+region_code_gt: vn
+plate_number_gt: 59U149726
+plate_inverted_gt: false

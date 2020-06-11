@@ -1,0 +1,7 @@
+image_file: 0259_05991_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 230 202 319 206 314 276 228 275
+region_code_gt: vn
+plate_number_gt: 59T153485
+plate_inverted_gt: false

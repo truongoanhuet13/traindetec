@@ -1,0 +1,7 @@
+image_file: 0336_04080_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 207 279 201 282 271 195 275
+region_code_gt: vn
+plate_number_gt: 51H30809
+plate_inverted_gt: false

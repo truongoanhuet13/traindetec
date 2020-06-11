@@ -1,0 +1,7 @@
+image_file: 0400_04390_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 241 118 321 113 325 181 247 185
+region_code_gt: vn
+plate_number_gt: 71B144573
+plate_inverted_gt: false

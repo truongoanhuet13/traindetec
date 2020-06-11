@@ -1,0 +1,7 @@
+image_file: 0256_07076_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 130 297 143 287 211 210 210
+region_code_gt: vn
+plate_number_gt: 51L54520
+plate_inverted_gt: false

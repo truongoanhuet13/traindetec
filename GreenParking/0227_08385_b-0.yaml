@@ -1,0 +1,7 @@
+image_file: 0227_08385_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 196 46 264 47 264 106 196 105
+region_code_gt: vn
+plate_number_gt: 69C128588
+plate_inverted_gt: false

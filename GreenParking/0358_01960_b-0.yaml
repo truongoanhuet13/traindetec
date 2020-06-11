@@ -1,0 +1,7 @@
+image_file: 0358_01960_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 103 285 100 287 165 210 170
+region_code_gt: vn
+plate_number_gt: 53V48609
+plate_inverted_gt: false

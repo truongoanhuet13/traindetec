@@ -1,0 +1,6 @@
+image_file: 0445_04734_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 223 83 301 87 298 152 222 150
+plate_number_gt: 63H51335
+plate_inverted_gt: false

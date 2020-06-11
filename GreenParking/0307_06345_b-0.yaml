@@ -1,0 +1,7 @@
+image_file: 0307_06345_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 80 275 82 274 141 204 140
+region_code_gt: vn
+plate_number_gt: 59V209048
+plate_inverted_gt: false

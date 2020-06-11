@@ -1,0 +1,7 @@
+image_file: 0417_07090_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 118 287 117 289 190 205 192
+region_code_gt: vn
+plate_number_gt: 59C139113
+plate_inverted_gt: false

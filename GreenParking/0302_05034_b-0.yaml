@@ -1,0 +1,7 @@
+image_file: 0302_05034_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 163 91 239 94 237 157 164 154
+region_code_gt: vn
+plate_number_gt: 59C250621
+plate_inverted_gt: false

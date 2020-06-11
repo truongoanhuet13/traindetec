@@ -1,0 +1,7 @@
+image_file: 0241_08258_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 197 246 197 245 256 174 257
+region_code_gt: vn
+plate_number_gt: 60C161975
+plate_inverted_gt: false

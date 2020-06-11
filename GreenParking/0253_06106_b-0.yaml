@@ -1,0 +1,7 @@
+image_file: 0253_06106_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 226 166 303 169 300 234 224 232
+region_code_gt: vn
+plate_number_gt: 54S54376
+plate_inverted_gt: false

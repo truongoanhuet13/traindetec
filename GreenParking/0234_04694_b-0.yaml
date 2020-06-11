@@ -1,0 +1,7 @@
+image_file: 0234_04694_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 102 245 106 243 155 184 150
+region_code_gt: vn
+plate_number_gt: 60B938385
+plate_inverted_gt: false

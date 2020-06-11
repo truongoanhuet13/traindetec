@@ -1,0 +1,7 @@
+image_file: 0430_04666_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 281 74 350 83 343 143 275 133
+region_code_gt: vn
+plate_number_gt: 51H24476
+plate_inverted_gt: false

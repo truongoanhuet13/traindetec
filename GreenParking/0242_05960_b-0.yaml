@@ -1,0 +1,7 @@
+image_file: 0242_05960_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 176 182 255 183 254 247 177 246
+region_code_gt: vn
+plate_number_gt: 59K201224
+plate_inverted_gt: false

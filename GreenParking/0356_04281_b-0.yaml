@@ -1,0 +1,7 @@
+image_file: 0356_04281_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 273 201 353 209 347 274 268 266
+region_code_gt: vn
+plate_number_gt: 59P133768
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0505_05700_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 187 228 189 227 248 154 244
+region_code_gt: vn
+plate_number_gt: 59B101554
+plate_inverted_gt: false

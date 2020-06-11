@@ -1,0 +1,7 @@
+image_file: 0229_06802_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 161 42 231 47 228 108 157 104
+region_code_gt: vn
+plate_number_gt: 59S187231
+plate_inverted_gt: false

@@ -1,0 +1,6 @@
+image_file: 0001_05318_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 175 55 244 55 247 112 174 114
+plate_number_gt: 59T108264
+plate_inverted_gt: false

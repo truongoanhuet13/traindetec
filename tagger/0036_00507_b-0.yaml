@@ -1,0 +1,7 @@
+image_file: 0036_00507_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 165 114 235 110 236 167 169 171
+region_code_gt: vn
+plate_number_gt: 72C112511
+plate_inverted_gt: false

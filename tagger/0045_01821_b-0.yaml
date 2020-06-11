@@ -1,0 +1,7 @@
+image_file: 0045_01821_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 206 293 212 290 282 207 274
+region_code_gt: vn
+plate_number_gt: 49B131215
+plate_inverted_gt: false

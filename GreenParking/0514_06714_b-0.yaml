@@ -1,0 +1,7 @@
+image_file: 0514_06714_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 126 287 133 282 203 200 200
+region_code_gt: vn
+plate_number_gt: 55P84339
+plate_inverted_gt: false

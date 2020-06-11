@@ -1,0 +1,7 @@
+image_file: 0312_00517_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 152 144 224 145 224 204 153 204
+region_code_gt: vn
+plate_number_gt: 59P211073
+plate_inverted_gt: false

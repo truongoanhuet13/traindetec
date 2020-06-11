@@ -1,0 +1,7 @@
+image_file: 0252_06193_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 231 82 291 84 290 136 230 131
+region_code_gt: vn
+plate_number_gt: 51L30352
+plate_inverted_gt: false

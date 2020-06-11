@@ -1,0 +1,7 @@
+image_file: 0049_03047_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 66 245 67 244 127 174 124
+region_code_gt: vn
+plate_number_gt: 94H41831
+plate_inverted_gt: false

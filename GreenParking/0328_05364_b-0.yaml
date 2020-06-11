@@ -1,0 +1,7 @@
+image_file: 0328_05364_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 160 112 242 106 245 177 165 182
+region_code_gt: vn
+plate_number_gt: 59S240065
+plate_inverted_gt: false

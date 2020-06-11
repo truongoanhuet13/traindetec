@@ -1,0 +1,7 @@
+image_file: 0222_05681_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 267 102 337 116 328 174 259 160
+region_code_gt: vn
+plate_number_gt: 83C117111
+plate_inverted_gt: false

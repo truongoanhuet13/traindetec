@@ -1,0 +1,7 @@
+image_file: 0046_00961_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 175 148 240 148 239 199 176 197
+region_code_gt: vn
+plate_number_gt: 62H27327
+plate_inverted_gt: false

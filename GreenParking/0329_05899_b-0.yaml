@@ -1,0 +1,7 @@
+image_file: 0329_05899_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 239 134 314 144 309 206 234 197
+region_code_gt: vn
+plate_number_gt: 59G139357
+plate_inverted_gt: false

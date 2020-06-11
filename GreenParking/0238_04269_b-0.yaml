@@ -1,0 +1,7 @@
+image_file: 0238_04269_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 177 110 252 111 250 176 175 174
+region_code_gt: vn
+plate_number_gt: 63B613421
+plate_inverted_gt: false

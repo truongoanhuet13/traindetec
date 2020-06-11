@@ -1,0 +1,7 @@
+image_file: 0258_05430_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 299 73 381 78 377 150 294 144
+region_code_gt: vn
+plate_number_gt: 54F23213
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0428_05962_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 109 279 108 279 180 194 179
+region_code_gt: vn
+plate_number_gt: 72T28629
+plate_inverted_gt: false

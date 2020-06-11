@@ -1,0 +1,7 @@
+image_file: 0324_06812_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 264 94 345 104 339 175 257 164
+region_code_gt: vn
+plate_number_gt: 59T187564
+plate_inverted_gt: false

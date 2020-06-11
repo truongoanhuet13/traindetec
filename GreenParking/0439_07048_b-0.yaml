@@ -1,0 +1,7 @@
+image_file: 0439_07048_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 201 158 279 159 277 223 201 222
+region_code_gt: vn
+plate_number_gt: 54P24739
+plate_inverted_gt: false

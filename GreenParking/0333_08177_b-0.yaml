@@ -1,0 +1,7 @@
+image_file: 0333_08177_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 188 166 266 165 264 230 189 228
+region_code_gt: vn
+plate_number_gt: 59E151207
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0424_04080_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 265 131 342 139 337 207 259 198
+region_code_gt: vn
+plate_number_gt: 59T135415
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0459_04862_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 152 62 222 57 226 117 155 122
+region_code_gt: vn
+plate_number_gt: 43S60133
+plate_inverted_gt: false

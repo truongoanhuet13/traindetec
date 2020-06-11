@@ -1,0 +1,7 @@
+image_file: 0218_06096_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 163 46 232 45 234 106 164 108
+region_code_gt: vn
+plate_number_gt: 60F161750
+plate_inverted_gt: false

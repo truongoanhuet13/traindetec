@@ -1,0 +1,7 @@
+image_file: 0220_06495_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 165 76 245 77 246 144 166 145
+region_code_gt: vn
+plate_number_gt: 52F41035
+plate_inverted_gt: false

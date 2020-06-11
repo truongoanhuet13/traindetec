@@ -1,0 +1,7 @@
+image_file: 0257_04316_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 161 91 239 88 242 156 164 157
+region_code_gt: vn
+plate_number_gt: 54S85452
+plate_inverted_gt: false

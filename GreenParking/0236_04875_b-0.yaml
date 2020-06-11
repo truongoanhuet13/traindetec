@@ -1,0 +1,7 @@
+image_file: 0236_04875_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 172 96 247 96 246 159 172 159
+region_code_gt: vn
+plate_number_gt: 54U57119
+plate_inverted_gt: false

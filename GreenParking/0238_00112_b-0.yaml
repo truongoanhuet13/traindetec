@@ -1,0 +1,7 @@
+image_file: 0238_00112_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 146 125 223 124 223 191 146 192
+region_code_gt: vn
+plate_number_gt: 51S50082
+plate_inverted_gt: false

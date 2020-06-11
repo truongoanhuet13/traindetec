@@ -1,0 +1,7 @@
+image_file: 0242_07067_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 155 258 154 257 204 197 204
+region_code_gt: vn
+plate_number_gt: 59C227415
+plate_inverted_gt: false

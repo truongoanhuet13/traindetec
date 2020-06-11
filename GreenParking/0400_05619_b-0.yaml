@@ -1,0 +1,7 @@
+image_file: 0400_05619_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 239 99 315 102 315 166 238 164
+region_code_gt: vn
+plate_number_gt: 50BA5557
+plate_inverted_gt: false

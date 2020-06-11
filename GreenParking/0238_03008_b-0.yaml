@@ -1,0 +1,7 @@
+image_file: 0238_03008_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 182 77 262 71 266 142 185 146
+region_code_gt: vn
+plate_number_gt: 59P197255
+plate_inverted_gt: false

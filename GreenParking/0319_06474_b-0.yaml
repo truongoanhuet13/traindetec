@@ -1,0 +1,7 @@
+image_file: 0319_06474_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 102 250 103 250 166 174 165
+region_code_gt: vn
+plate_number_gt: 59C204837
+plate_inverted_gt: false

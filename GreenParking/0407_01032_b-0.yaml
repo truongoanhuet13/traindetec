@@ -1,0 +1,7 @@
+image_file: 0407_01032_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 228 93 307 95 308 162 228 162
+region_code_gt: vn
+plate_number_gt: 54U44199
+plate_inverted_gt: false

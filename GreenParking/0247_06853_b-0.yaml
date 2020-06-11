@@ -1,0 +1,7 @@
+image_file: 0247_06853_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 129 259 123 262 187 189 192
+region_code_gt: vn
+plate_number_gt: 59M107790
+plate_inverted_gt: false

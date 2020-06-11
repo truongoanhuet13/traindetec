@@ -1,0 +1,7 @@
+image_file: 0401_05012_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 143 107 223 103 228 173 146 177
+region_code_gt: vn
+plate_number_gt: 54S88080
+plate_inverted_gt: false

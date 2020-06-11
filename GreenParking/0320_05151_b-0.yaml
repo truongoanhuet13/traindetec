@@ -1,0 +1,7 @@
+image_file: 0320_05151_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 175 75 253 72 255 140 177 143
+region_code_gt: vn
+plate_number_gt: 59U156452
+plate_inverted_gt: false

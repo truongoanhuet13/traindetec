@@ -1,0 +1,7 @@
+image_file: 0041_00951_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 120 219 118 218 169 159 171
+region_code_gt: vn
+plate_number_gt: 62V16814
+plate_inverted_gt: false

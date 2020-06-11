@@ -1,0 +1,7 @@
+image_file: 0508_06887_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 167 277 170 273 232 200 229
+region_code_gt: vn
+plate_number_gt: 59T192715
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0519_06917_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 251 160 320 173 311 227 244 215
+region_code_gt: vn
+plate_number_gt: 54T11850
+plate_inverted_gt: false

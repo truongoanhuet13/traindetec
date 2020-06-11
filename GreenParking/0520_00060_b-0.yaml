@@ -1,0 +1,7 @@
+image_file: 0520_00060_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 207 95 288 99 286 167 206 164
+region_code_gt: vn
+plate_number_gt: 59P133202
+plate_inverted_gt: false

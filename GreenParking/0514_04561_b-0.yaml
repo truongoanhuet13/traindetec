@@ -1,0 +1,7 @@
+image_file: 0514_04561_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 166 125 238 122 240 185 168 187
+region_code_gt: vn
+plate_number_gt: 59V208217
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0251_07090_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 166 149 233 154 230 212 163 206
+region_code_gt: vn
+plate_number_gt: 59D213113
+plate_inverted_gt: false

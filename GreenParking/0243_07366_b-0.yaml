@@ -1,0 +1,7 @@
+image_file: 0243_07366_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 146 176 227 180 224 248 144 243
+region_code_gt: vn
+plate_number_gt: 59B125157
+plate_inverted_gt: false

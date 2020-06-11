@@ -1,0 +1,7 @@
+image_file: 0419_04383_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 164 143 248 142 251 214 166 216
+region_code_gt: vn
+plate_number_gt: 55P60839
+plate_inverted_gt: false

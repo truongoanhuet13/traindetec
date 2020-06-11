@@ -1,0 +1,7 @@
+image_file: 0403_07322_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 245 72 326 80 322 149 240 141
+region_code_gt: vn
+plate_number_gt: 62P153221
+plate_inverted_gt: false

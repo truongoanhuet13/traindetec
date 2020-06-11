@@ -1,0 +1,7 @@
+image_file: 0513_06538_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 240 114 324 124 318 196 234 184
+region_code_gt: vn
+plate_number_gt: 59T134738
+plate_inverted_gt: false

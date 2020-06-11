@@ -1,0 +1,7 @@
+image_file: 0047_00966_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 195 105 255 104 256 152 196 154
+region_code_gt: vn
+plate_number_gt: 54S16312
+plate_inverted_gt: false

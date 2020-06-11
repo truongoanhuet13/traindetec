@@ -1,0 +1,7 @@
+image_file: 0253_01652_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 219 156 291 158 290 220 218 217
+region_code_gt: vn
+plate_number_gt: 71B140140
+plate_inverted_gt: false

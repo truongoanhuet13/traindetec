@@ -1,0 +1,7 @@
+image_file: 0245_04007_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 198 125 274 125 275 192 197 192
+region_code_gt: vn
+plate_number_gt: 59M161406
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0251_05043_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 259 173 326 180 321 236 255 229
+region_code_gt: vn
+plate_number_gt: 59U178039
+plate_inverted_gt: false

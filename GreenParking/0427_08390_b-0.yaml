@@ -1,0 +1,7 @@
+image_file: 0427_08390_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 218 105 301 116 293 187 212 175
+region_code_gt: vn
+plate_number_gt: 59B123468
+plate_inverted_gt: false

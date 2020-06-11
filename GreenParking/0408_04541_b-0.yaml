@@ -1,0 +1,7 @@
+image_file: 0408_04541_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 146 70 224 68 225 136 147 135
+region_code_gt: vn
+plate_number_gt: 52T74640
+plate_inverted_gt: false

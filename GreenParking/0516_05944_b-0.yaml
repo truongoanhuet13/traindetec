@@ -1,0 +1,7 @@
+image_file: 0516_05944_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 230 151 313 157 307 224 227 218
+region_code_gt: vn
+plate_number_gt: 59C170773
+plate_inverted_gt: false

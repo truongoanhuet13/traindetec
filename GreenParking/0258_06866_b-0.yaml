@@ -1,0 +1,7 @@
+image_file: 0258_06866_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 274 121 357 133 350 204 268 193
+region_code_gt: vn
+plate_number_gt: 59M190208
+plate_inverted_gt: false

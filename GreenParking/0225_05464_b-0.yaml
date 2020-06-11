@@ -1,0 +1,7 @@
+image_file: 0225_05464_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 87 266 84 269 153 188 156
+region_code_gt: vn
+plate_number_gt: 36F42678
+plate_inverted_gt: false

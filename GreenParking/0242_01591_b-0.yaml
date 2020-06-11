@@ -1,0 +1,7 @@
+image_file: 0242_01591_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 189 266 185 268 254 187 256
+region_code_gt: vn
+plate_number_gt: 92N103003
+plate_inverted_gt: false

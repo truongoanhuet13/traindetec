@@ -1,0 +1,7 @@
+image_file: 0443_04187_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 235 124 317 124 319 194 235 194
+region_code_gt: vn
+plate_number_gt: 59F182787
+plate_inverted_gt: false

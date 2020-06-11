@@ -1,0 +1,7 @@
+image_file: 0318_05008_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 121 262 121 263 185 184 186
+region_code_gt: vn
+plate_number_gt: 49G109999
+plate_inverted_gt: false

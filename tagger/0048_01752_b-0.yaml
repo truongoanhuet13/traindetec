@@ -1,0 +1,7 @@
+image_file: 0048_01752_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 160 183 232 182 231 236 160 236
+region_code_gt: vn
+plate_number_gt: 59L197457
+plate_inverted_gt: false

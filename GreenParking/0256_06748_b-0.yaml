@@ -1,0 +1,7 @@
+image_file: 0256_06748_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 168 154 243 152 243 211 169 214
+region_code_gt: vn
+plate_number_gt: 51L68446
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0019_06895_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 147 145 213 142 216 197 149 199
+region_code_gt: vn
+plate_number_gt: 59H154986
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0237_02213_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 262 128 332 139 324 196 255 185
+region_code_gt: vn
+plate_number_gt: 70B132168
+plate_inverted_gt: false

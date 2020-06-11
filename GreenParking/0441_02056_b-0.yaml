@@ -1,0 +1,7 @@
+image_file: 0441_02056_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 128 160 214 151 220 221 135 231
+region_code_gt: vn
+plate_number_gt: 47K29950
+plate_inverted_gt: false

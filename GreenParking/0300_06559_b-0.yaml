@@ -1,0 +1,7 @@
+image_file: 0300_06559_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 88 248 85 250 154 171 157
+region_code_gt: vn
+plate_number_gt: 62H57108
+plate_inverted_gt: false

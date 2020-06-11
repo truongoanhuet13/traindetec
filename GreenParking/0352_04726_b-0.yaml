@@ -1,0 +1,7 @@
+image_file: 0352_04726_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 65 247 70 243 137 167 133
+region_code_gt: vn
+plate_number_gt: 59T185717
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0421_00288_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 134 125 221 125 222 199 134 199
+region_code_gt: vn
+plate_number_gt: 59S231606
+plate_inverted_gt: false

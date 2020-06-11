@@ -1,0 +1,7 @@
+image_file: 0231_04382_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 182 262 182 261 253 178 254
+region_code_gt: vn
+plate_number_gt: 59T132229
+plate_inverted_gt: false

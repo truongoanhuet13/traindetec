@@ -1,0 +1,7 @@
+image_file: 0517_05181_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 242 209 325 221 317 289 235 278
+region_code_gt: vn
+plate_number_gt: 60B322083
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0455_06303_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 264 89 345 98 338 166 258 156
+region_code_gt: vn
+plate_number_gt: 81B138746
+plate_inverted_gt: false

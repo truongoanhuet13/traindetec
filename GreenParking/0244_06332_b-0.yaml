@@ -1,0 +1,7 @@
+image_file: 0244_06332_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 115 266 116 265 168 205 166
+region_code_gt: vn
+plate_number_gt: 59L211500
+plate_inverted_gt: false

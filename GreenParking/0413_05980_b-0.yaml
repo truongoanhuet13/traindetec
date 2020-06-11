@@ -1,0 +1,7 @@
+image_file: 0413_05980_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 109 284 110 284 179 203 178
+region_code_gt: vn
+plate_number_gt: 52F31770
+plate_inverted_gt: false

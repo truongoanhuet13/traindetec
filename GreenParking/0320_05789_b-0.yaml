@@ -1,0 +1,7 @@
+image_file: 0320_05789_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 147 103 228 105 228 175 147 172
+region_code_gt: vn
+plate_number_gt: 52K38683
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0318_05414_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 183 278 179 279 251 194 253
+region_code_gt: vn
+plate_number_gt: 60B608880
+plate_inverted_gt: false

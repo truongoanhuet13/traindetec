@@ -1,0 +1,7 @@
+image_file: 0437_04839_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 79 256 81 255 149 177 148
+region_code_gt: vn
+plate_number_gt: 59G196577
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0435_04232_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 188 151 269 151 268 219 189 219
+region_code_gt: vn
+plate_number_gt: 59V224614
+plate_inverted_gt: false

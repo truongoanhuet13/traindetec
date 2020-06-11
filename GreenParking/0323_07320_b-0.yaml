@@ -1,0 +1,7 @@
+image_file: 0323_07320_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 86 295 88 297 151 212 148
+region_code_gt: vn
+plate_number_gt: 47B199864
+plate_inverted_gt: false

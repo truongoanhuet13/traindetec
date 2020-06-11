@@ -1,0 +1,7 @@
+image_file: 0330_02191_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 238 195 322 202 314 272 231 262
+region_code_gt: vn
+plate_number_gt: 51R42488
+plate_inverted_gt: false

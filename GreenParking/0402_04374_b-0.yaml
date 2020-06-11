@@ -1,0 +1,7 @@
+image_file: 0402_04374_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 49 252 48 251 107 178 109
+region_code_gt: vn
+plate_number_gt: 49B132870
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0430_05970_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 136 294 139 292 211 209 211
+region_code_gt: vn
+plate_number_gt: 59A308642
+plate_inverted_gt: false

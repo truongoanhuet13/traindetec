@@ -1,0 +1,7 @@
+image_file: 0430_06439_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 205 280 203 281 268 204 268
+region_code_gt: vn
+plate_number_gt: 59S159694
+plate_inverted_gt: false

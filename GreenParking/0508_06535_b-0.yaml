@@ -1,0 +1,7 @@
+image_file: 0508_06535_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 151 156 228 156 228 221 151 220
+region_code_gt: vn
+plate_number_gt: 77G125759
+plate_inverted_gt: false

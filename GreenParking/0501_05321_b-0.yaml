@@ -1,0 +1,7 @@
+image_file: 0501_05321_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 176 107 247 112 245 171 174 167
+region_code_gt: vn
+plate_number_gt: 59C130543
+plate_inverted_gt: false

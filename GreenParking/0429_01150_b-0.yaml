@@ -1,0 +1,7 @@
+image_file: 0429_01150_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 253 92 323 103 316 163 247 150
+region_code_gt: vn
+plate_number_gt: 60U29890
+plate_inverted_gt: false

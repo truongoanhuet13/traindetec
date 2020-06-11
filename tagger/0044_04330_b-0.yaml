@@ -1,0 +1,7 @@
+image_file: 0044_04330_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 165 86 225 87 223 138 164 134
+region_code_gt: vn
+plate_number_gt: 84K34900
+plate_inverted_gt: false

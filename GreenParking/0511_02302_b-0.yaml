@@ -1,0 +1,7 @@
+image_file: 0511_02302_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 293 159 371 164 366 227 290 222
+region_code_gt: vn
+plate_number_gt: 59V167747
+plate_inverted_gt: false

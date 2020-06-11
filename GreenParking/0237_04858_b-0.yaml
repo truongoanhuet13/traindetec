@@ -1,0 +1,7 @@
+image_file: 0237_04858_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 167 130 243 129 242 193 168 194
+region_code_gt: vn
+plate_number_gt: 59P208324
+plate_inverted_gt: false

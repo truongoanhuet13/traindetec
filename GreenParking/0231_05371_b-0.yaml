@@ -1,0 +1,7 @@
+image_file: 0231_05371_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 186 130 248 129 249 183 187 183
+region_code_gt: vn
+plate_number_gt: 52S24832
+plate_inverted_gt: false

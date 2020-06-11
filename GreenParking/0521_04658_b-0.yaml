@@ -1,0 +1,7 @@
+image_file: 0521_04658_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 58 272 56 275 118 203 121
+region_code_gt: vn
+plate_number_gt: 52T72746
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0438_05376_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 245 118 314 121 313 181 243 177
+region_code_gt: vn
+plate_number_gt: 59C128740
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0256_06104_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 128 266 131 260 184 199 179
+region_code_gt: vn
+plate_number_gt: 59H115793
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0256_06916_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 80 259 75 262 142 184 145
+region_code_gt: vn
+plate_number_gt: 67N120886
+plate_inverted_gt: false

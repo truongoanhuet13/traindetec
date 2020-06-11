@@ -1,0 +1,7 @@
+image_file: 0253_05735_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 140 53 198 51 198 100 140 99
+region_code_gt: vn
+plate_number_gt: 75F102991
+plate_inverted_gt: false

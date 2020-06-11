@@ -1,0 +1,7 @@
+image_file: 0332_06410_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 137 282 140 281 211 199 209
+region_code_gt: vn
+plate_number_gt: 59B119240
+plate_inverted_gt: false

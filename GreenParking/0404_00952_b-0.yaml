@@ -1,0 +1,7 @@
+image_file: 0404_00952_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 148 254 147 256 216 173 217
+region_code_gt: vn
+plate_number_gt: 54L59913
+plate_inverted_gt: false

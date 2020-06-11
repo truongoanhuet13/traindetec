@@ -1,0 +1,7 @@
+image_file: 0257_08272_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 206 95 280 99 277 162 203 158
+region_code_gt: vn
+plate_number_gt: 78H92348
+plate_inverted_gt: false

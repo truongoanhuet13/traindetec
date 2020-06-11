@@ -1,0 +1,7 @@
+image_file: 0336_04446_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 171 296 179 290 253 205 243
+region_code_gt: vn
+plate_number_gt: 59E118310
+plate_inverted_gt: false

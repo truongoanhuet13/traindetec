@@ -1,0 +1,7 @@
+image_file: 0413_02227_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 182 144 262 139 264 210 186 212
+region_code_gt: vn
+plate_number_gt: 59E125297
+plate_inverted_gt: false

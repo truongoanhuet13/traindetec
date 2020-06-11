@@ -1,0 +1,7 @@
+image_file: 0303_06824_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 143 274 143 274 210 192 210
+region_code_gt: vn
+plate_number_gt: 59F168564
+plate_inverted_gt: false

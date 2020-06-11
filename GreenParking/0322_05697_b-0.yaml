@@ -1,0 +1,7 @@
+image_file: 0322_05697_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 31 256 29 257 92 182 93
+region_code_gt: vn
+plate_number_gt: 59U152884
+plate_inverted_gt: false

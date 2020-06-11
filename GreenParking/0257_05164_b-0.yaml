@@ -1,0 +1,7 @@
+image_file: 0257_05164_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 186 151 271 149 273 223 188 226
+region_code_gt: vn
+plate_number_gt: 67M59687
+plate_inverted_gt: false

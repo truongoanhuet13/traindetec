@@ -1,0 +1,7 @@
+image_file: 0420_01152_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 261 194 340 205 332 271 254 262
+region_code_gt: vn
+plate_number_gt: 59F170424
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0349_00083_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 184 242 182 243 258 158 257
+region_code_gt: vn
+plate_number_gt: 86C107261
+plate_inverted_gt: false

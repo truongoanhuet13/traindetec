@@ -1,0 +1,7 @@
+image_file: 0438_05958_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 52 273 61 266 127 192 117
+region_code_gt: vn
+plate_number_gt: 59S171398
+plate_inverted_gt: false

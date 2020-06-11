@@ -1,0 +1,7 @@
+image_file: 0418_05686_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 211 63 285 60 286 128 212 129
+region_code_gt: vn
+plate_number_gt: 71S57611
+plate_inverted_gt: false

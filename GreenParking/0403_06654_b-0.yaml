@@ -1,0 +1,7 @@
+image_file: 0403_06654_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 94 281 95 281 162 204 161
+region_code_gt: vn
+plate_number_gt: 59H141855
+plate_inverted_gt: false

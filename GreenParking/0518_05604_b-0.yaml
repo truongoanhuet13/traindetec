@@ -1,0 +1,7 @@
+image_file: 0518_05604_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 264 138 345 145 338 213 258 204
+region_code_gt: vn
+plate_number_gt: 59D108861
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0048_01689_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 93 270 94 267 147 194 148
+region_code_gt: vn
+plate_number_gt: 51R56273
+plate_inverted_gt: false

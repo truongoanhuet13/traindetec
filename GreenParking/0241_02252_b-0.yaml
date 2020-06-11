@@ -1,0 +1,7 @@
+image_file: 0241_02252_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 181 136 256 134 256 198 183 199
+region_code_gt: vn
+plate_number_gt: 82H108866
+plate_inverted_gt: false

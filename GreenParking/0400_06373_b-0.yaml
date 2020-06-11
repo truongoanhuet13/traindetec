@@ -1,0 +1,7 @@
+image_file: 0400_06373_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 141 253 132 258 206 175 213
+region_code_gt: vn
+plate_number_gt: 79Z110184
+plate_inverted_gt: false

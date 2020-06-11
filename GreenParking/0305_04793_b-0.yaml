@@ -1,0 +1,7 @@
+image_file: 0305_04793_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 272 164 347 172 341 232 267 222
+region_code_gt: vn
+plate_number_gt: 54T40987
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0225_06388_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 197 163 273 166 272 231 197 228
+region_code_gt: vn
+plate_number_gt: 59F162919
+plate_inverted_gt: false

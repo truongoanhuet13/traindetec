@@ -1,0 +1,7 @@
+image_file: 0342_06209_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 141 122 221 120 223 189 143 190
+region_code_gt: vn
+plate_number_gt: 59S159659
+plate_inverted_gt: false

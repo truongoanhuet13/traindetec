@@ -1,0 +1,7 @@
+image_file: 0236_02272_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 215 154 301 157 300 230 215 228
+region_code_gt: vn
+plate_number_gt: 54H14882
+plate_inverted_gt: false

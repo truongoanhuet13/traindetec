@@ -1,0 +1,7 @@
+image_file: 0354_08079_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 181 113 265 119 261 188 179 183
+region_code_gt: vn
+plate_number_gt: 69F22140
+plate_inverted_gt: false

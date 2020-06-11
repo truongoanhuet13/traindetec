@@ -1,0 +1,7 @@
+image_file: 0009_02194_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 150 137 230 145 226 212 147 205
+region_code_gt: vn
+plate_number_gt: 51FB4779
+plate_inverted_gt: false

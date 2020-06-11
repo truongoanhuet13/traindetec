@@ -1,0 +1,7 @@
+image_file: 0520_07389_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 172 141 247 144 245 207 171 204
+region_code_gt: vn
+plate_number_gt: 59F138151
+plate_inverted_gt: false

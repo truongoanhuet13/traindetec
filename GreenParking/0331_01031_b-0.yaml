@@ -1,0 +1,7 @@
+image_file: 0331_01031_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 216 122 295 120 292 186 215 186
+region_code_gt: vn
+plate_number_gt: 59S117816
+plate_inverted_gt: false

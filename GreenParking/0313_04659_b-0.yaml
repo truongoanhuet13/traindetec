@@ -1,0 +1,7 @@
+image_file: 0313_04659_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 232 70 314 72 312 140 231 137
+region_code_gt: vn
+plate_number_gt: 71C230079
+plate_inverted_gt: false

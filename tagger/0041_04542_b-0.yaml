@@ -1,0 +1,7 @@
+image_file: 0041_04542_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 166 128 224 128 225 173 166 174
+region_code_gt: vn
+plate_number_gt: 52H99892
+plate_inverted_gt: false

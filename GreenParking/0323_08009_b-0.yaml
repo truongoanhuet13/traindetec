@@ -1,0 +1,7 @@
+image_file: 0323_08009_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 234 166 314 173 311 234 231 232
+region_code_gt: vn
+plate_number_gt: 49B103126
+plate_inverted_gt: false

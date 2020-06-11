@@ -1,0 +1,7 @@
+image_file: 0440_05207_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 267 118 349 123 346 193 262 186
+region_code_gt: vn
+plate_number_gt: 72K67070
+plate_inverted_gt: false

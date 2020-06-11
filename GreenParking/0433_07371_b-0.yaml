@@ -1,0 +1,7 @@
+image_file: 0433_07371_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 214 171 285 178 281 237 211 229
+region_code_gt: vn
+plate_number_gt: 59H134159
+plate_inverted_gt: false

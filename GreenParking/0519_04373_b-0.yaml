@@ -1,0 +1,7 @@
+image_file: 0519_04373_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 229 199 299 204 293 260 224 255
+region_code_gt: vn
+plate_number_gt: 54S92073
+plate_inverted_gt: false

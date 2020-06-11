@@ -1,0 +1,7 @@
+image_file: 0257_04368_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 247 63 325 70 321 137 243 131
+region_code_gt: vn
+plate_number_gt: 59L231395
+plate_inverted_gt: false

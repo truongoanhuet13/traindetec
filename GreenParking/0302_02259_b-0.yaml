@@ -1,0 +1,7 @@
+image_file: 0302_02259_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 70 278 70 279 136 200 138
+region_code_gt: vn
+plate_number_gt: 55X86970
+plate_inverted_gt: false

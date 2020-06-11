@@ -1,0 +1,7 @@
+image_file: 0225_01448_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 187 235 185 235 235 174 236
+region_code_gt: vn
+plate_number_gt: 59E153127
+plate_inverted_gt: false

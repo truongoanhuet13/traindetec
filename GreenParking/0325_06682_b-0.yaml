@@ -1,0 +1,7 @@
+image_file: 0325_06682_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 55 273 53 272 117 195 119
+region_code_gt: vn
+plate_number_gt: 50DC3878
+plate_inverted_gt: false

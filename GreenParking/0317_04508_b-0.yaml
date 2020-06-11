@@ -1,0 +1,7 @@
+image_file: 0317_04508_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 238 137 312 137 312 198 238 199
+region_code_gt: vn
+plate_number_gt: 59F114064
+plate_inverted_gt: false

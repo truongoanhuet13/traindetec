@@ -1,0 +1,7 @@
+image_file: 0244_05397_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 70 255 72 254 132 182 130
+region_code_gt: vn
+plate_number_gt: 54T36239
+plate_inverted_gt: false

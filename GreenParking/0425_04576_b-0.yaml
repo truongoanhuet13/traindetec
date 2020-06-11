@@ -1,0 +1,7 @@
+image_file: 0425_04576_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 246 124 322 136 313 199 239 186
+region_code_gt: vn
+plate_number_gt: 51S57559
+plate_inverted_gt: false

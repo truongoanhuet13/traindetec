@@ -1,0 +1,7 @@
+image_file: 0332_05966_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 277 137 357 147 349 212 271 204
+region_code_gt: vn
+plate_number_gt: 59K125599
+plate_inverted_gt: false

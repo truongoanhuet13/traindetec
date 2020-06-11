@@ -1,0 +1,7 @@
+image_file: 0413_05705_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 66 250 68 248 134 172 132
+region_code_gt: vn
+plate_number_gt: 59D217148
+plate_inverted_gt: false

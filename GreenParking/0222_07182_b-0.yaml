@@ -1,0 +1,7 @@
+image_file: 0222_07182_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 163 104 241 101 241 166 166 168
+region_code_gt: vn
+plate_number_gt: 54V38314
+plate_inverted_gt: false

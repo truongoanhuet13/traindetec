@@ -1,0 +1,7 @@
+image_file: 0515_01686_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 89 252 86 254 154 175 155
+region_code_gt: vn
+plate_number_gt: 54K40723
+plate_inverted_gt: false

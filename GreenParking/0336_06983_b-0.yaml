@@ -1,0 +1,7 @@
+image_file: 0336_06983_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 99 250 99 251 166 173 167
+region_code_gt: vn
+plate_number_gt: 59F111299
+plate_inverted_gt: false

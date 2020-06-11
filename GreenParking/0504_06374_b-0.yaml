@@ -1,0 +1,7 @@
+image_file: 0504_06374_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 168 271 170 268 234 192 234
+region_code_gt: vn
+plate_number_gt: 59T146457
+plate_inverted_gt: false

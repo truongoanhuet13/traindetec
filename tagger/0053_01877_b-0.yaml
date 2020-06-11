@@ -1,0 +1,7 @@
+image_file: 0053_01877_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 46 268 46 265 116 184 116
+region_code_gt: vn
+plate_number_gt: 59X268327
+plate_inverted_gt: false

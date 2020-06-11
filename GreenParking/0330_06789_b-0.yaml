@@ -1,0 +1,7 @@
+image_file: 0330_06789_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 114 297 117 293 183 214 179
+region_code_gt: vn
+plate_number_gt: 33M73521
+plate_inverted_gt: false

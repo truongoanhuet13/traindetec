@@ -1,0 +1,7 @@
+image_file: 0505_06413_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 231 121 317 131 310 202 227 192
+region_code_gt: vn
+plate_number_gt: 50N112582
+plate_inverted_gt: false

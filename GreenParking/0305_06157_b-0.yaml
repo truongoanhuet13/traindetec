@@ -1,0 +1,7 @@
+image_file: 0305_06157_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 273 119 354 131 346 199 264 188
+region_code_gt: vn
+plate_number_gt: 53V73196
+plate_inverted_gt: false

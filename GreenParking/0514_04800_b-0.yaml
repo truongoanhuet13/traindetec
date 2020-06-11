@@ -1,0 +1,7 @@
+image_file: 0514_04800_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 198 141 281 139 282 211 199 213
+region_code_gt: vn
+plate_number_gt: 51R32161
+plate_inverted_gt: false

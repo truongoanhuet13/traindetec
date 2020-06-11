@@ -1,0 +1,7 @@
+image_file: 0252_01426_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 140 159 226 159 229 235 141 234
+region_code_gt: vn
+plate_number_gt: 52F73840
+plate_inverted_gt: false

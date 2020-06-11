@@ -1,0 +1,7 @@
+image_file: 0253_06153_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 242 98 319 96 318 162 242 164
+region_code_gt: vn
+plate_number_gt: 59P223103
+plate_inverted_gt: false

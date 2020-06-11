@@ -1,0 +1,7 @@
+image_file: 0343_02003_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 189 87 267 86 268 153 188 153
+region_code_gt: vn
+plate_number_gt: 59S232928
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0335_00509_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 252 81 334 98 322 161 244 147
+region_code_gt: vn
+plate_number_gt: 52Z65061
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0250_02065_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 84 249 81 251 143 180 145
+region_code_gt: vn
+plate_number_gt: 59L214999
+plate_inverted_gt: false

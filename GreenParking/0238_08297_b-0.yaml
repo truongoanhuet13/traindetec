@@ -1,0 +1,7 @@
+image_file: 0238_08297_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 141 39 209 37 210 97 141 99
+region_code_gt: vn
+plate_number_gt: 51L38385
+plate_inverted_gt: false

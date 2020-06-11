@@ -1,0 +1,7 @@
+image_file: 0248_08125_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 142 250 143 249 208 172 207
+region_code_gt: vn
+plate_number_gt: 67B169660
+plate_inverted_gt: false

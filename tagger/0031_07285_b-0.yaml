@@ -1,0 +1,7 @@
+image_file: 0031_07285_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 171 60 256 60 255 130 171 129
+region_code_gt: vn
+plate_number_gt: 81B126810
+plate_inverted_gt: false

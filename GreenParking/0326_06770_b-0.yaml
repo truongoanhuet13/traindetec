@@ -1,0 +1,7 @@
+image_file: 0326_06770_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 120 275 118 276 183 200 186
+region_code_gt: vn
+plate_number_gt: 51H22933
+plate_inverted_gt: false

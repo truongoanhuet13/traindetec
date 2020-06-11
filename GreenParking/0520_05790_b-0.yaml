@@ -1,0 +1,7 @@
+image_file: 0520_05790_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 69 243 71 242 133 173 131
+region_code_gt: vn
+plate_number_gt: 55P85535
+plate_inverted_gt: false

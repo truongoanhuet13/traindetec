@@ -1,0 +1,7 @@
+image_file: 0459_05434_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 173 149 248 150 248 211 173 210
+region_code_gt: vn
+plate_number_gt: 68K49407
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0242_05642_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 73 256 75 255 134 184 133
+region_code_gt: vn
+plate_number_gt: 59X294270
+plate_inverted_gt: false

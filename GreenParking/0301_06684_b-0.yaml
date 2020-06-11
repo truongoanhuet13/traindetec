@@ -1,0 +1,7 @@
+image_file: 0301_06684_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 212 153 285 142 290 203 220 217
+region_code_gt: vn
+plate_number_gt: 76H106161
+plate_inverted_gt: false

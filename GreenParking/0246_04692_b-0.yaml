@@ -1,0 +1,7 @@
+image_file: 0246_04692_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 225 129 299 137 294 199 220 189
+region_code_gt: vn
+plate_number_gt: 49L101241
+plate_inverted_gt: false

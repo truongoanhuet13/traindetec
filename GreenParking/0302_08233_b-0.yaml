@@ -1,0 +1,7 @@
+image_file: 0302_08233_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 211 131 296 137 294 212 209 207
+region_code_gt: vn
+plate_number_gt: 54F24106
+plate_inverted_gt: false

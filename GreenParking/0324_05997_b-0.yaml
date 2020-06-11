@@ -1,0 +1,7 @@
+image_file: 0324_05997_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 152 80 227 80 227 146 151 145
+region_code_gt: vn
+plate_number_gt: 61B161878
+plate_inverted_gt: false

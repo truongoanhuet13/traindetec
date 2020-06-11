@@ -1,0 +1,7 @@
+image_file: 0338_05880_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 217 102 298 101 298 170 217 172
+region_code_gt: vn
+plate_number_gt: 49K139272
+plate_inverted_gt: false

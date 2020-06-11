@@ -1,0 +1,7 @@
+image_file: 0323_05688_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 205 146 282 143 284 210 207 212
+region_code_gt: vn
+plate_number_gt: 59C257492
+plate_inverted_gt: false

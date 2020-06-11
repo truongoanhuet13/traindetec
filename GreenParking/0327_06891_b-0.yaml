@@ -1,0 +1,7 @@
+image_file: 0327_06891_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 235 137 317 142 315 215 232 208
+region_code_gt: vn
+plate_number_gt: 51K38796
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0406_04580_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 171 178 244 177 246 237 170 239
+region_code_gt: vn
+plate_number_gt: 55P67093
+plate_inverted_gt: false

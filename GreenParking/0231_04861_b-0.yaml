@@ -1,0 +1,7 @@
+image_file: 0231_04861_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 50 280 50 282 113 210 112
+region_code_gt: vn
+plate_number_gt: 51X91894
+plate_inverted_gt: false

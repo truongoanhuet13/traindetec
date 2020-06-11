@@ -1,0 +1,7 @@
+image_file: 0310_06703_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 247 156 327 157 327 223 247 223
+region_code_gt: vn
+plate_number_gt: 59P221181
+plate_inverted_gt: false

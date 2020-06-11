@@ -1,0 +1,7 @@
+image_file: 0315_04289_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 189 147 258 149 257 208 188 205
+region_code_gt: vn
+plate_number_gt: 59V248612
+plate_inverted_gt: false

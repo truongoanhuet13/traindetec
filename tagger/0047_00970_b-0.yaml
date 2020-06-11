@@ -1,0 +1,7 @@
+image_file: 0047_00970_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 189 157 253 163 249 212 186 206
+region_code_gt: vn
+plate_number_gt: 59P152934
+plate_inverted_gt: false

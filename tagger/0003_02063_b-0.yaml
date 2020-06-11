@@ -1,0 +1,7 @@
+image_file: 0003_02063_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 155 134 235 132 236 196 156 201
+region_code_gt: vn
+plate_number_gt: 63B957926
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0428_04433_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 210 164 288 165 286 226 209 227
+region_code_gt: vn
+plate_number_gt: 47C113770
+plate_inverted_gt: false

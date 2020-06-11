@@ -1,0 +1,7 @@
+image_file: 0350_06252_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 203 56 280 60 278 126 202 123
+region_code_gt: vn
+plate_number_gt: 67B140833
+plate_inverted_gt: false

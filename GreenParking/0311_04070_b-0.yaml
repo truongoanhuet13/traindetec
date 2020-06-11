@@ -1,0 +1,7 @@
+image_file: 0311_04070_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 64 280 66 281 133 200 133
+region_code_gt: vn
+plate_number_gt: 62P151909
+plate_inverted_gt: false

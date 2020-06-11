@@ -1,0 +1,7 @@
+image_file: 0405_04925_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 216 118 300 116 302 188 219 189
+region_code_gt: vn
+plate_number_gt: 61Z12662
+plate_inverted_gt: false

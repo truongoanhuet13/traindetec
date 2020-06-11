@@ -1,0 +1,7 @@
+image_file: 0436_01393_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 80 276 73 281 144 199 152
+region_code_gt: vn
+plate_number_gt: 62K109571
+plate_inverted_gt: false

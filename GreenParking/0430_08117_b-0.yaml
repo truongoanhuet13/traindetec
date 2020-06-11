@@ -1,0 +1,7 @@
+image_file: 0430_08117_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 196 66 264 68 262 127 195 123
+region_code_gt: vn
+plate_number_gt: 59L211347
+plate_inverted_gt: false

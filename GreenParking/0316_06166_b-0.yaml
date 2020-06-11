@@ -1,0 +1,7 @@
+image_file: 0316_06166_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 197 137 281 133 283 205 200 208
+region_code_gt: vn
+plate_number_gt: 60T77586
+plate_inverted_gt: false

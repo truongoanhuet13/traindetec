@@ -1,0 +1,7 @@
+image_file: 0423_04629_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 209 189 285 190 283 254 208 252
+region_code_gt: vn
+plate_number_gt: 59P21179
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0516_06669_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 102 237 106 235 163 168 158
+region_code_gt: vn
+plate_number_gt: 59U191897
+plate_inverted_gt: false

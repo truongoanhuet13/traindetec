@@ -1,0 +1,7 @@
+image_file: 0422_05807_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 256 148 340 158 336 231 249 219
+region_code_gt: vn
+plate_number_gt: 59X297772
+plate_inverted_gt: false

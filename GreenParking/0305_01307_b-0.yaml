@@ -1,0 +1,7 @@
+image_file: 0305_01307_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 217 176 296 177 296 242 216 242
+region_code_gt: vn
+plate_number_gt: 59F165171
+plate_inverted_gt: false

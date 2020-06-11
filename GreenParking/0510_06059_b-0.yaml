@@ -1,0 +1,7 @@
+image_file: 0510_06059_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 164 246 166 243 226 170 225
+region_code_gt: vn
+plate_number_gt: 59S240017
+plate_inverted_gt: false

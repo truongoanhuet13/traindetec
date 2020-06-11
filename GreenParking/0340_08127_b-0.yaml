@@ -1,0 +1,7 @@
+image_file: 0340_08127_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 167 82 246 83 246 151 167 151
+region_code_gt: vn
+plate_number_gt: 64Z12383
+plate_inverted_gt: false

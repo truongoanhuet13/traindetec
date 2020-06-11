@@ -1,0 +1,7 @@
+image_file: 0002_02183_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 213 160 282 159 280 210 212 210
+region_code_gt: vn
+plate_number_gt: 52U78693
+plate_inverted_gt: false

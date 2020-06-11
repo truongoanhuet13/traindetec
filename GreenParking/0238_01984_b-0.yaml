@@ -1,0 +1,7 @@
+image_file: 0238_01984_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 208 59 290 59 290 133 206 131
+region_code_gt: vn
+plate_number_gt: 59L113826
+plate_inverted_gt: false

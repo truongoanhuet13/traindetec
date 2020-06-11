@@ -1,0 +1,7 @@
+image_file: 0503_04738_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 176 64 254 65 252 132 176 128
+region_code_gt: vn
+plate_number_gt: 79N118893
+plate_inverted_gt: false

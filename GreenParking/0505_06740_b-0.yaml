@@ -1,0 +1,7 @@
+image_file: 0505_06740_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 250 166 322 174 317 231 246 223
+region_code_gt: vn
+plate_number_gt: 59V221604
+plate_inverted_gt: false

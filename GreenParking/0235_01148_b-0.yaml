@@ -1,0 +1,7 @@
+image_file: 0235_01148_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 140 92 211 91 212 152 140 151
+region_code_gt: vn
+plate_number_gt: 59Z120681
+plate_inverted_gt: false

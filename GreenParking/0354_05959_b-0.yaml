@@ -1,0 +1,7 @@
+image_file: 0354_05959_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 159 202 238 204 238 269 159 268
+region_code_gt: vn
+plate_number_gt: 59S106865
+plate_inverted_gt: false

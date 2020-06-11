@@ -1,0 +1,7 @@
+image_file: 0408_06290_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 226 52 305 53 303 122 226 121
+region_code_gt: vn
+plate_number_gt: 59K120173
+plate_inverted_gt: false

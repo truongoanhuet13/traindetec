@@ -1,0 +1,7 @@
+image_file: 0054_06669_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 170 66 248 69 246 134 167 132
+region_code_gt: vn
+plate_number_gt: 59C159610
+plate_inverted_gt: false

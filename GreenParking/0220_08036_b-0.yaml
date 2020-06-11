@@ -1,0 +1,7 @@
+image_file: 0220_08036_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 110 241 112 240 172 168 171
+region_code_gt: vn
+plate_number_gt: 52P20878
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0424_06031_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 186 156 262 155 262 219 187 219
+region_code_gt: vn
+plate_number_gt: 59T164455
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0436_05417_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 228 240 225 241 290 162 292
+region_code_gt: vn
+plate_number_gt: 60F141516
+plate_inverted_gt: false

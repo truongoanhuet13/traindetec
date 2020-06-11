@@ -1,0 +1,7 @@
+image_file: 0413_06425_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 247 126 331 133 327 202 244 197
+region_code_gt: vn
+plate_number_gt: 59A303615
+plate_inverted_gt: false

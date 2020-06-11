@@ -1,0 +1,7 @@
+image_file: 0502_05334_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 157 77 236 72 241 140 162 145
+region_code_gt: vn
+plate_number_gt: 51H36696
+plate_inverted_gt: false

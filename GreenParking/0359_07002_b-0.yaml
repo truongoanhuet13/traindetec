@@ -1,0 +1,7 @@
+image_file: 0359_07002_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 181 98 260 99 260 169 181 168
+region_code_gt: vn
+plate_number_gt: 54V79675
+plate_inverted_gt: false

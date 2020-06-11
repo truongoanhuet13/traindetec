@@ -1,0 +1,7 @@
+image_file: 0305_08221_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 176 266 179 263 245 182 242
+region_code_gt: vn
+plate_number_gt: 59V204212
+plate_inverted_gt: false

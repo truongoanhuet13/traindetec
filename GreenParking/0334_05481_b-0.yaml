@@ -1,0 +1,7 @@
+image_file: 0334_05481_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 176 50 253 48 254 115 174 115
+region_code_gt: vn
+plate_number_gt: 54X72899
+plate_inverted_gt: false

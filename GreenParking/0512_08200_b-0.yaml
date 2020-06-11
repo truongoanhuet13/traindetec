@@ -1,0 +1,7 @@
+image_file: 0512_08200_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 275 97 347 109 341 168 268 157
+region_code_gt: vn
+plate_number_gt: 54Z88767
+plate_inverted_gt: false

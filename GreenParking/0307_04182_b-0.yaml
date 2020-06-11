@@ -1,0 +1,7 @@
+image_file: 0307_04182_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 203 157 282 161 280 225 201 223
+region_code_gt: vn
+plate_number_gt: 59N100569
+plate_inverted_gt: false

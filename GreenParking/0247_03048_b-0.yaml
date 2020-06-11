@@ -1,0 +1,7 @@
+image_file: 0247_03048_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 155 169 240 166 241 238 157 242
+region_code_gt: vn
+plate_number_gt: 59FA00982
+plate_inverted_gt: false

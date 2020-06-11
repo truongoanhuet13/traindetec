@@ -1,0 +1,7 @@
+image_file: 0236_04123_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 177 191 238 194 236 244 175 241
+region_code_gt: vn
+plate_number_gt: 54P76117
+plate_inverted_gt: false

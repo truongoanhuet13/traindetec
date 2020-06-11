@@ -1,0 +1,7 @@
+image_file: 0312_05504_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 256 42 334 49 330 117 254 110
+region_code_gt: vn
+plate_number_gt: 59H160591
+plate_inverted_gt: false

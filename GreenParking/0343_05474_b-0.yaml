@@ -1,0 +1,7 @@
+image_file: 0343_05474_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 231 126 311 131 306 196 229 191
+region_code_gt: vn
+plate_number_gt: 54K34770
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0509_05645_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 215 112 288 113 287 174 214 174
+region_code_gt: vn
+plate_number_gt: 59S100685
+plate_inverted_gt: false

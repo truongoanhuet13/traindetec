@@ -1,0 +1,7 @@
+image_file: 0500_07340_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 146 268 146 269 209 193 209
+region_code_gt: vn
+plate_number_gt: 59S126208
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0359_05454_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 219 141 297 146 293 210 215 205
+region_code_gt: vn
+plate_number_gt: 59Y173281
+plate_inverted_gt: false

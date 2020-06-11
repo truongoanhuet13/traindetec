@@ -1,0 +1,7 @@
+image_file: 0259_04561_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 85 242 88 241 151 168 148
+region_code_gt: vn
+plate_number_gt: 60F118319
+plate_inverted_gt: false

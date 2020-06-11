@@ -1,0 +1,7 @@
+image_file: 0302_08192_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 202 43 280 42 282 108 203 111
+region_code_gt: vn
+plate_number_gt: 59F173270
+plate_inverted_gt: false

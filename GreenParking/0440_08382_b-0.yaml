@@ -1,0 +1,7 @@
+image_file: 0440_08382_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 183 49 263 50 261 116 182 115
+region_code_gt: vn
+plate_number_gt: 61D147834
+plate_inverted_gt: false

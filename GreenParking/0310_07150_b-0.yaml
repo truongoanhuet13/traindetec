@@ -1,0 +1,7 @@
+image_file: 0310_07150_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 156 74 226 70 228 132 159 135
+region_code_gt: vn
+plate_number_gt: 52H48060
+plate_inverted_gt: false

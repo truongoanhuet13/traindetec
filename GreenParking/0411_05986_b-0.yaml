@@ -1,0 +1,7 @@
+image_file: 0411_05986_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 216 17 292 19 291 84 216 84
+region_code_gt: vn
+plate_number_gt: 86B227765
+plate_inverted_gt: false

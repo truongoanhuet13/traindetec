@@ -1,0 +1,7 @@
+image_file: 0014_02176_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 178 133 263 135 261 199 178 197
+region_code_gt: vn
+plate_number_gt: 52O44702
+plate_inverted_gt: false

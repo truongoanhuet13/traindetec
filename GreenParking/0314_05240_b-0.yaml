@@ -1,0 +1,7 @@
+image_file: 0314_05240_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 78 272 80 269 151 191 148
+region_code_gt: vn
+plate_number_gt: 59B137858
+plate_inverted_gt: false

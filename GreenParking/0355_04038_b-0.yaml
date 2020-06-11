@@ -1,0 +1,7 @@
+image_file: 0355_04038_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 145 63 224 61 226 129 147 132
+region_code_gt: vn
+plate_number_gt: 55P48426
+plate_inverted_gt: false

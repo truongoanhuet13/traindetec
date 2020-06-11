@@ -1,0 +1,7 @@
+image_file: 0240_06217_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 53 255 50 257 109 188 111
+region_code_gt: vn
+plate_number_gt: 59U193221
+plate_inverted_gt: false

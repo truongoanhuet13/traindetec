@@ -1,0 +1,7 @@
+image_file: 0421_08091_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 148 104 228 101 231 171 147 170
+region_code_gt: vn
+plate_number_gt: 59C262872
+plate_inverted_gt: false

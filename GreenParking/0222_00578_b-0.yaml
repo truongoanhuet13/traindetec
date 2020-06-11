@@ -1,0 +1,7 @@
+image_file: 0222_00578_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 217 101 293 105 291 172 214 167
+region_code_gt: vn
+plate_number_gt: 59S228834
+plate_inverted_gt: false

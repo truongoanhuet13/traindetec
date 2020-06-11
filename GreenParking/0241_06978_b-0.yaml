@@ -1,0 +1,7 @@
+image_file: 0241_06978_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 189 122 274 123 272 193 190 192
+region_code_gt: vn
+plate_number_gt: 59S229969
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0518_04948_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 185 149 260 154 257 214 183 208
+region_code_gt: vn
+plate_number_gt: 59C259332
+plate_inverted_gt: false

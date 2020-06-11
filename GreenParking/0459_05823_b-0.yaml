@@ -1,0 +1,7 @@
+image_file: 0459_05823_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 253 120 338 135 332 209 246 195
+region_code_gt: vn
+plate_number_gt: 54Y88280
+plate_inverted_gt: false

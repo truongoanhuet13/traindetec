@@ -1,0 +1,7 @@
+image_file: 0431_05890_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 192 207 270 210 267 276 190 275
+region_code_gt: vn
+plate_number_gt: 49K138886
+plate_inverted_gt: false

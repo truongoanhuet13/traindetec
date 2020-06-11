@@ -1,0 +1,7 @@
+image_file: 0238_04368_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 184 129 263 127 263 195 186 197
+region_code_gt: vn
+plate_number_gt: 59F142819
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0504_01851_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 171 109 244 109 244 171 171 171
+region_code_gt: vn
+plate_number_gt: 59E158720
+plate_inverted_gt: false

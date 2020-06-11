@@ -1,0 +1,7 @@
+image_file: 0310_05831_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 212 68 288 69 288 136 212 137
+region_code_gt: vn
+plate_number_gt: 81G114710
+plate_inverted_gt: false

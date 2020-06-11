@@ -1,0 +1,7 @@
+image_file: 0257_05420_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 165 276 168 272 228 197 225
+region_code_gt: vn
+plate_number_gt: 71B207999
+plate_inverted_gt: false

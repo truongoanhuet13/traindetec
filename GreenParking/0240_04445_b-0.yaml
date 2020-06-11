@@ -1,0 +1,7 @@
+image_file: 0240_04445_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 176 73 250 73 254 139 177 141
+region_code_gt: vn
+plate_number_gt: 59Z113930
+plate_inverted_gt: false

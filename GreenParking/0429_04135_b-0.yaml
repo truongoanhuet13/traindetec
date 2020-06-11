@@ -1,0 +1,7 @@
+image_file: 0429_04135_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 164 62 240 62 240 127 163 128
+region_code_gt: vn
+plate_number_gt: 77X69544
+plate_inverted_gt: false

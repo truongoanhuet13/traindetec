@@ -1,0 +1,7 @@
+image_file: 0216_04264_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 165 62 235 63 235 124 163 121
+region_code_gt: vn
+plate_number_gt: 71B112522
+plate_inverted_gt: false

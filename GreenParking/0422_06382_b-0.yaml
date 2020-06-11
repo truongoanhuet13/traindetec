@@ -1,0 +1,7 @@
+image_file: 0422_06382_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 186 77 268 71 272 140 193 147
+region_code_gt: vn
+plate_number_gt: 59H143727
+plate_inverted_gt: false

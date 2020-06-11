@@ -1,0 +1,7 @@
+image_file: 0215_06112_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 131 69 210 67 212 134 132 136
+region_code_gt: vn
+plate_number_gt: 59L145900
+plate_inverted_gt: false

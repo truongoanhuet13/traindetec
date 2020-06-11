@@ -1,0 +1,7 @@
+image_file: 0311_04828_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 155 135 237 134 238 203 156 203
+region_code_gt: vn
+plate_number_gt: 67B100979
+plate_inverted_gt: false

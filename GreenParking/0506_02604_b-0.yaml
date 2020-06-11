@@ -1,0 +1,7 @@
+image_file: 0506_02604_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 128 277 126 279 198 195 200
+region_code_gt: vn
+plate_number_gt: 93P179867
+plate_inverted_gt: false

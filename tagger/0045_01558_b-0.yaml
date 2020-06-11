@@ -1,0 +1,7 @@
+image_file: 0045_01558_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 165 92 224 95 223 145 163 142
+region_code_gt: vn
+plate_number_gt: 59U170392
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0511_04171_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 162 100 243 102 241 171 162 169
+region_code_gt: vn
+plate_number_gt: 52U84577
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0458_04430_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 220 88 300 88 302 157 220 156
+region_code_gt: vn
+plate_number_gt: 79D115814
+plate_inverted_gt: false

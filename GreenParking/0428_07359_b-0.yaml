@@ -1,0 +1,7 @@
+image_file: 0428_07359_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 203 122 276 123 275 185 203 184
+region_code_gt: vn
+plate_number_gt: 59M106028
+plate_inverted_gt: false

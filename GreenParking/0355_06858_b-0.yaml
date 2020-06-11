@@ -1,0 +1,7 @@
+image_file: 0355_06858_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 267 107 344 107 343 173 266 173
+region_code_gt: vn
+plate_number_gt: 59T131340
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0028_08102_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 180 79 239 83 237 131 177 127
+region_code_gt: vn
+plate_number_gt: 59C100507
+plate_inverted_gt: false

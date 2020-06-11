@@ -1,0 +1,7 @@
+image_file: 0005_00512_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 206 158 282 152 283 211 209 220
+region_code_gt: vn
+plate_number_gt: 68F55727
+plate_inverted_gt: false

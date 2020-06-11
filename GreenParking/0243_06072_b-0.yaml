@@ -1,0 +1,7 @@
+image_file: 0243_06072_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 225 60 292 58 295 117 226 120
+region_code_gt: vn
+plate_number_gt: 59P183738
+plate_inverted_gt: false

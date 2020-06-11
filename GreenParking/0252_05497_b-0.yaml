@@ -1,0 +1,7 @@
+image_file: 0252_05497_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 179 140 256 147 253 212 176 206
+region_code_gt: vn
+plate_number_gt: 49L104456
+plate_inverted_gt: false

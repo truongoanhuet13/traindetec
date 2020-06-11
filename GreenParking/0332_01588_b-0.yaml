@@ -1,0 +1,7 @@
+image_file: 0332_01588_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 93 279 96 277 166 199 162
+region_code_gt: vn
+plate_number_gt: 81B137963
+plate_inverted_gt: false

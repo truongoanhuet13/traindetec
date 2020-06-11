@@ -1,0 +1,7 @@
+image_file: 0307_05979_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 236 71 312 82 305 148 228 137
+region_code_gt: vn
+plate_number_gt: 59S106241
+plate_inverted_gt: false

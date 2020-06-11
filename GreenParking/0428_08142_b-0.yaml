@@ -1,0 +1,7 @@
+image_file: 0428_08142_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 247 60 315 70 306 126 239 114
+region_code_gt: vn
+plate_number_gt: 60B316391
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0246_05507_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 177 57 249 57 248 118 178 117
+region_code_gt: vn
+plate_number_gt: 59S194422
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0042_01875_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 295 94 377 105 372 176 289 165
+region_code_gt: vn
+plate_number_gt: 59C162293
+plate_inverted_gt: false

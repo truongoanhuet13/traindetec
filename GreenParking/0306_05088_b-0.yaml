@@ -1,0 +1,7 @@
+image_file: 0306_05088_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 147 72 224 72 225 139 146 140
+region_code_gt: vn
+plate_number_gt: 53Z11759
+plate_inverted_gt: false

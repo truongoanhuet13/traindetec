@@ -1,0 +1,7 @@
+image_file: 0453_05979_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 153 137 219 134 220 188 156 191
+region_code_gt: vn
+plate_number_gt: 85C123992
+plate_inverted_gt: false

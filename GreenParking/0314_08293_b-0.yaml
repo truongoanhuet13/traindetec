@@ -1,0 +1,7 @@
+image_file: 0314_08293_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 101 288 103 287 174 204 172
+region_code_gt: vn
+plate_number_gt: 47D118716
+plate_inverted_gt: false

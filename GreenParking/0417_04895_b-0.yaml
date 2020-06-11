@@ -1,0 +1,7 @@
+image_file: 0417_04895_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 197 126 276 136 269 199 192 189
+region_code_gt: vn
+plate_number_gt: 68N108117
+plate_inverted_gt: false

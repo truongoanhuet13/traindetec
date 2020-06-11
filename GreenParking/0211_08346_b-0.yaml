@@ -1,0 +1,7 @@
+image_file: 0211_08346_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 155 141 235 138 237 210 156 210
+region_code_gt: vn
+plate_number_gt: 49E115383
+plate_inverted_gt: false

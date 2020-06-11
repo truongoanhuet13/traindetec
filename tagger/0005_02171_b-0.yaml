@@ -1,0 +1,7 @@
+image_file: 0005_02171_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 159 119 227 114 231 168 164 176
+region_code_gt: vn
+plate_number_gt: 59C251109
+plate_inverted_gt: false

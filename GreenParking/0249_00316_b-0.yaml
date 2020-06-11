@@ -1,0 +1,7 @@
+image_file: 0249_00316_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 206 132 266 130 266 180 207 183
+region_code_gt: vn
+plate_number_gt: 59U149726
+plate_inverted_gt: false

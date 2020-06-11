@@ -1,0 +1,7 @@
+image_file: 0501_05973_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 195 86 269 91 264 153 192 147
+region_code_gt: vn
+plate_number_gt: 16L95425
+plate_inverted_gt: false

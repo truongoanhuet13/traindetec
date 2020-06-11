@@ -1,0 +1,7 @@
+image_file: 0300_06692_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 220 148 286 146 287 203 220 205
+region_code_gt: vn
+plate_number_gt: 71B197914
+plate_inverted_gt: false

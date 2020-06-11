@@ -1,0 +1,7 @@
+image_file: 0235_04862_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 199 122 277 125 276 191 198 187
+region_code_gt: vn
+plate_number_gt: 59S211998
+plate_inverted_gt: false

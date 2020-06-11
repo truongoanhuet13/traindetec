@@ -1,0 +1,7 @@
+image_file: 0243_05046_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 198 81 276 83 273 149 196 148
+region_code_gt: vn
+plate_number_gt: 59V245506
+plate_inverted_gt: false

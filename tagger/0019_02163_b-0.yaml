@@ -1,0 +1,7 @@
+image_file: 0019_02163_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 208 99 284 101 284 164 206 163
+region_code_gt: vn
+plate_number_gt: 59E113417
+plate_inverted_gt: false

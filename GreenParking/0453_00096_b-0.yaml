@@ -1,0 +1,7 @@
+image_file: 0453_00096_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 187 85 248 84 247 136 187 136
+region_code_gt: vn
+plate_number_gt: 59P200263
+plate_inverted_gt: false

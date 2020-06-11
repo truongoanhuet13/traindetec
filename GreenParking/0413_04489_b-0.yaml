@@ -1,0 +1,7 @@
+image_file: 0413_04489_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 232 145 320 153 316 227 229 220
+region_code_gt: vn
+plate_number_gt: 54V81990
+plate_inverted_gt: false

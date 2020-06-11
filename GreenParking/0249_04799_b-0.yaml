@@ -1,0 +1,7 @@
+image_file: 0249_04799_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 285 161 358 171 349 228 280 219
+region_code_gt: vn
+plate_number_gt: 59K122599
+plate_inverted_gt: false

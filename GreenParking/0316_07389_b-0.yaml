@@ -1,0 +1,7 @@
+image_file: 0316_07389_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 169 219 244 221 243 282 169 279
+region_code_gt: vn
+plate_number_gt: 59S212978
+plate_inverted_gt: false

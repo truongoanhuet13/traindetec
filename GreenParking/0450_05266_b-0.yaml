@@ -1,0 +1,7 @@
+image_file: 0450_05266_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 90 279 87 279 154 203 156
+region_code_gt: vn
+plate_number_gt: 59V191460
+plate_inverted_gt: false

@@ -1,0 +1,7 @@
+image_file: 0453_05278_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 204 96 283 98 280 164 202 160
+region_code_gt: vn
+plate_number_gt: 43G113684
+plate_inverted_gt: false

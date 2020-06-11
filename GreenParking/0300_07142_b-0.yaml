@@ -1,0 +1,7 @@
+image_file: 0300_07142_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 131 164 216 174 210 248 126 238
+region_code_gt: vn
+plate_number_gt: 78G104308
+plate_inverted_gt: false

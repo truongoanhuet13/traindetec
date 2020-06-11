@@ -1,0 +1,7 @@
+image_file: 0255_07272_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 200 60 259 60 259 110 200 111
+region_code_gt: vn
+plate_number_gt: 59P185700
+plate_inverted_gt: false

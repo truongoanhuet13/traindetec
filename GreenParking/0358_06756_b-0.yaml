@@ -1,0 +1,7 @@
+image_file: 0358_06756_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 186 107 266 109 267 178 186 177
+region_code_gt: vn
+plate_number_gt: 54H25463
+plate_inverted_gt: false

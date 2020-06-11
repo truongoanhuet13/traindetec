@@ -1,0 +1,7 @@
+image_file: 0313_07153_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 194 107 275 117 271 186 190 177
+region_code_gt: vn
+plate_number_gt: 72C139315
+plate_inverted_gt: false

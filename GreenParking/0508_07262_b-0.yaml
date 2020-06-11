@@ -1,0 +1,7 @@
+image_file: 0508_07262_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 174 102 248 103 248 166 173 165
+region_code_gt: vn
+plate_number_gt: 61C1-61407
+plate_inverted_gt: false

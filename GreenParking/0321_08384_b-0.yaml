@@ -1,0 +1,7 @@
+image_file: 0321_08384_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 222 3 299 2 302 67 223 71
+region_code_gt: vn
+plate_number_gt: 72K108550
+plate_inverted_gt: false

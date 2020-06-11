@@ -1,0 +1,7 @@
+image_file: 0256_04748_b.jpg
+image_width: 472
+image_height: 303
+plate_corners_gt: 203 85 276 88 273 151 200 147
+region_code_gt: vn
+plate_number_gt: 59C167071
+plate_inverted_gt: false
